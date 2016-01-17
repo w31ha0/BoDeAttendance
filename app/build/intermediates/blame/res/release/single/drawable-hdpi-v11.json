@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v11\\ic_stat_gcm.png",
         "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_gcm.png"
+    },
+    {
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v11\\ic_stat_gcm.png",
+        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_gcm.png"
     }
 ]

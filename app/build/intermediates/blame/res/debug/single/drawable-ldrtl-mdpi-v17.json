@@ -4,12 +4,20 @@
         "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Git\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_ab_back_mtrl_am_alpha.png",
         "source": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Git\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
@@ -20,12 +28,16 @@
         "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
         "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Git\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
@@ -36,15 +48,19 @@
         "source": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
         "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Git\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-ldrtl-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
     }
 ]

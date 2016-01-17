@@ -69,10 +69,10 @@
     <application
         android:name="com.google.android.gcm.demo.app.MyApplication"
         android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name" >
+        android:label="BoDeAttendance" >
         <activity
             android:name="com.google.android.gcm.demo.app.DemoActivity"
-            android:label="@string/app_name"
+            android:label="BoDeAttendance"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

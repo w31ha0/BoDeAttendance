@@ -4,6 +4,10 @@
         "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\Git\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
         "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
         "source": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-v23\\abc_control_background_material.xml"
     },
