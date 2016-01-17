@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    }
+]

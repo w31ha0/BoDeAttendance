@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\mr_media_route_list_item.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout-v17\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\mr_media_route_list_item.xml",
+        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout-v17\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout-v17\\mr_media_route_list_item.xml"
+    }
+]
