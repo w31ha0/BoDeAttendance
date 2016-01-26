@@ -1,17 +1,22 @@
 package com.google.android.gcm.demo.app;
 
+import android.app.AlertDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.text.InputType;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.RadioGroup;
 import android.widget.Spinner;
 import android.widget.TextView;
@@ -36,8 +41,10 @@ import org.json.JSONObject;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 public class MainFragment extends Fragment {
@@ -61,12 +68,16 @@ public class MainFragment extends Fragment {
     private RadioGroup gdzb;
     private RadioGroup gqkb;
     private RadioGroup gdjjtr;
-    private Boolean goingbxb1,goingbxb2,goingbxb3,goingdjjtr,goingdzb,goingqkb,goingzxb1,goingzxb2,goingzxb3;
     private Button button;
     private Spinner dropdown;
     private Context context;
     private SharedPreferences sharedPreferences;
     private List<String> namelist;
+    private boolean initialising;
+    private HashMap<String,String> reason;
+    private String selected;
+    InputMethodManager imm;
+
     public MainFragment(Context context) {
         this.context=context;
     }
@@ -76,9 +87,57 @@ public class MainFragment extends Fragment {
 
     }
 
+    private void checkWhiteSpace(){
+        Iterator it = reason.entrySet().iterator();
+        while (it.hasNext()) {
+            Map.Entry pair = (Map.Entry)it.next();
+            if(pair.getValue().toString().contains(" ")){
+                String s=pair.getValue().toString().replaceAll(" ","+");
+                reason.put(pair.getKey().toString(),s);
+            }
+        }
+    }
+
+    private void createDialog(){
+        if (initialising)
+            return ;
+        final AlertDialog.Builder builder = new AlertDialog.Builder(this.context);
+        builder.setTitle("Please input your reason");
+        final EditText input = new EditText(this.context);
+        input.setInputType(InputType.TYPE_CLASS_TEXT);
+        builder.setView(input);
+        builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                String s = input.getText().toString();
+                if (s.trim().length() == 0 || s.equals(" "))
+                    reason.put(selected, "0");
+                else
+                    reason.put(selected, s);
+                imm.hideSoftInputFromWindow(input.getWindowToken(), 0);
+            }
+        });
+        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                reason.put(selected, "0");
+                dialog.cancel();
+                imm.hideSoftInputFromWindow(input.getWindowToken(), 0);
+            }
+        });
+        builder.show();
+        input.requestFocus();
+        InputMethodManager imm = (InputMethodManager) context.getSystemService(context.INPUT_METHOD_SERVICE);
+        imm.toggleSoftInput(InputMethodManager.SHOW_FORCED,InputMethodManager.HIDE_IMPLICIT_ONLY);
+    }
+    
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+        imm = (InputMethodManager)context.getSystemService(context.INPUT_METHOD_SERVICE);
+        initialising=true;
+        reason=new HashMap<String,String>();
+        reason.put("bxb1","");reason.put("bxb2", "");reason.put("bxb3","");reason.put("zxb1","");reason.put("zxb2","");reason.put("zxb3","");reason.put("djjtr","");reason.put("dzb","");reason.put("qkb", "");
         getKeys("https://script.google.com/macros/s/AKfycbyWgDSTvO5elKoj4IYkY_2agMAGZwuMENuN_95JUWMKm3IIcpk/exec");
         View root = inflater.inflate(R.layout.main, container, false);
         namelist = new ArrayList<String>();
@@ -126,12 +185,13 @@ public class MainFragment extends Fragment {
         gbxb1.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
+                selected="bxb1";
                 switch (checkedId) {
                     case R.id.yesbxb1:
-                        goingbxb1 = true;
+                        reason.put(selected,"1");
                         break;
                     case R.id.nobxb1:
-                        goingbxb1 = false;
+                        createDialog();
                         break;
                 }
             }
@@ -139,12 +199,13 @@ public class MainFragment extends Fragment {
         gbxb2.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
+                selected="bxb2";
                 switch (checkedId) {
                     case R.id.yesbxb2:
-                        goingbxb2 = true;
+                        reason.put(selected,"1");
                         break;
                     case R.id.nobxb2:
-                        goingbxb2 = false;
+                        createDialog();
                         break;
                 }
             }
@@ -152,12 +213,13 @@ public class MainFragment extends Fragment {
         gbxb3.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
+                selected="bxb3";
                 switch (checkedId) {
                     case R.id.yesbxb3:
-                        goingbxb3 = true;
+                        reason.put(selected,"1");
                         break;
                     case R.id.nobxb3:
-                        goingbxb3 = false;
+                        createDialog();
                         break;
                 }
             }
@@ -165,12 +227,13 @@ public class MainFragment extends Fragment {
         gzxb1.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
+                selected="zxb1";
                 switch (checkedId) {
                     case R.id.yeszxb1:
-                        goingzxb1 = true;
+                        reason.put(selected,"1");
                         break;
                     case R.id.nozxb1:
-                        goingzxb1 = false;
+                        createDialog();
                         break;
                 }
             }
@@ -178,12 +241,13 @@ public class MainFragment extends Fragment {
         gzxb2.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
+                selected="zxb2";
                 switch (checkedId) {
                     case R.id.yeszxb2:
-                        goingzxb2 = true;
+                        reason.put(selected,"1");
                         break;
                     case R.id.nozxb2:
-                        goingzxb2 = false;
+                        createDialog();
                         break;
                 }
             }
@@ -191,12 +255,13 @@ public class MainFragment extends Fragment {
         gzxb3.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
+                selected="zxb3";
                 switch (checkedId) {
                     case R.id.yeszxb3:
-                        goingzxb3 = true;
+                        reason.put(selected,"1");
                         break;
                     case R.id.nozxb3:
-                        goingzxb3 = false;
+                        createDialog();
                         break;
                 }
             }
@@ -204,12 +269,13 @@ public class MainFragment extends Fragment {
         gdjjtr.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
+                selected="djjtr";
                 switch (checkedId) {
                     case R.id.yesdjjtr:
-                        goingdjjtr = true;
+                        reason.put(selected,"1");
                         break;
                     case R.id.nodjjtr:
-                        goingdjjtr = false;
+                        createDialog();
                         break;
                 }
             }
@@ -217,12 +283,13 @@ public class MainFragment extends Fragment {
         gdzb.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
+                selected="dzb";
                 switch (checkedId) {
                     case R.id.yesdzb:
-                        goingdzb = true;
+                        reason.put(selected,"1");
                         break;
                     case R.id.nodzb:
-                        goingdzb = false;
+                        createDialog();
                         break;
                 }
             }
@@ -230,12 +297,13 @@ public class MainFragment extends Fragment {
         gqkb.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
+                selected="qkb";
                 switch (checkedId) {
                     case R.id.yesqkb:
-                        goingqkb = true;
+                        reason.put(selected,"1");
                         break;
                     case R.id.noqkb:
-                        goingqkb = false;
+                        createDialog();
                         break;
                 }
             }
@@ -243,52 +311,14 @@ public class MainFragment extends Fragment {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                checkWhiteSpace();
                 String url = "https://script.google.com/macros/s/AKfycbwdFAsb-fkbdRao-1JPE2Q0Z85RjIozfe5M3vF3XNleF6mWD-jf/exec";
-                String bxb1, bxb2, bxb3, zxb1, zxb2, zxb3, djjtr, dzb, qkb;
-                bxb1 = bxb2 = bxb3 = zxb1 = zxb2 = zxb3 = djjtr = dzb = qkb = "";
-                if (goingbxb1 != null)
-                    bxb1 = goingbxb1 ? "1" : "0";
-                if (goingbxb2 != null)
-                    bxb2 = goingbxb2 ? "1" : "0";
-                if (goingbxb3 != null)
-                    bxb3 = goingbxb3 ? "1" : "0";
-                if (goingzxb1 != null)
-                    zxb1 = goingzxb1 ? "1" : "0";
-                if (goingzxb2 != null)
-                    zxb2 = goingzxb2 ? "1" : "0";
-                if (goingzxb3 != null)
-                    zxb3 = goingzxb3 ? "1" : "0";
-                if (goingdjjtr != null)
-                    djjtr = goingdjjtr ? "1" : "0";
-                if (goingdzb != null)
-                    dzb = goingdzb ? "1" : "0";
-                if (goingqkb != null)
-                    qkb = goingqkb ? "1" : "0";
-                url = url + "?name=" + currentName + "&bxb1=" + bxb1 + "&bxb2=" + bxb2 + "&bxb3=" + bxb3 + "&djjtr=" + djjtr + "&dzb=" + dzb + "&qkb=" + qkb + "&zxb1=" + zxb1 + "&zxb2=" + zxb2 + "&zxb3=" + zxb3;
+                url = url + "?name=" + currentName + "&bxb1=" + reason.get("bxb1") + "&bxb2=" + reason.get("bxb2") + "&bxb3=" + reason.get("bxb3") + "&djjtr=" +reason.get("djjtr") + "&dzb=" + reason.get("dzb") + "&qkb=" + reason.get("qkb") + "&zxb1=" + reason.get("zxb1") + "&zxb2=" + reason.get("zxb2") + "&zxb3=" + reason.get("zxb3");
                 System.out.println(url);
                 new submitTask().execute(url);
-                //submit(url);
             }
         });
         return root;
-    }
-
-    private void submit(String s){
-        RequestQueue queue = VolleySingleton.getsInstance().getmRequestQueue();
-        StringRequest stringRequest = new StringRequest(Request.Method.POST, s,
-                new Response.Listener<String>() {
-                    @Override
-                    public void onResponse(String response) {
-                        Toast toast= Toast.makeText(context, "Changes have been submitted successfully", Toast.LENGTH_SHORT);
-                        toast.show();
-                    }
-                }, new Response.ErrorListener() {
-            @Override
-            public void onErrorResponse(VolleyError error) {
-
-            }
-        });
-        queue.add(stringRequest);
     }
 
     private void getKeys(String s){
@@ -338,7 +368,6 @@ public class MainFragment extends Fragment {
                 HttpGet get = new HttpGet(params[0]);
                 HttpResponse rp = hc.execute(get);
                 if(rp.getStatusLine().getStatusCode() == HttpStatus.SC_OK){
-                    String result = EntityUtils.toString(rp.getEntity());
                     succeed=true;
                 }
                 final SharedPreferences prefs =
@@ -374,6 +403,9 @@ public class MainFragment extends Fragment {
     }
 
     private void refresh(){
+        reason=new HashMap<String,String>();
+        reason.put("bxb1","");reason.put("bxb2", "");reason.put("bxb3","");reason.put("zxb1","");reason.put("zxb2","");reason.put("zxb3","");reason.put("djjtr","");reason.put("dzb","");reason.put("qkb", "");
+        initialising=true;
         final MyProgressDialog pd=MyProgressDialog.show(CommonUtilities.context, "", "");
         gdjjtr.clearCheck();
         gbxb1.clearCheck();
@@ -384,8 +416,7 @@ public class MainFragment extends Fragment {
         gzxb3.clearCheck();
         gdzb.clearCheck();
         gqkb.clearCheck();
-        goingbxb1=goingbxb2=goingbxb3=goingzxb1=goingzxb2=goingzxb3=goingdjjtr=goingdzb=goingqkb=null;
-        final List<Integer> ints=new ArrayList<Integer>();
+        final List<String> ints=new ArrayList<String>();
         String URL="https://script.google.com/macros/s/AKfycbxM-vcwreQme8aX8_sWdKcc-KXFPzZ9XQzRm6u_-oIYjNXUhxI/exec";
         RequestQueue queue = VolleySingleton.getsInstance().getmRequestQueue();
         StringRequest stringRequest = new StringRequest(Request.Method.GET, URL,
@@ -401,41 +432,41 @@ public class MainFragment extends Fragment {
                                 if (session.has("姓名")){
                                     if (session.getString("姓名").equals(currentName)){
                                         if(session.has(CommonUtilities.keys.get(3)))
-                                            ints.add(session.getInt(CommonUtilities.keys.get(3)));
+                                            ints.add(session.getString(CommonUtilities.keys.get(3)));
                                         else
-                                            ints.add(-1);
+                                            ints.add("-1");
                                         if(session.has(CommonUtilities.keys.get(4)))
-                                            ints.add(session.getInt(CommonUtilities.keys.get(4)));
+                                            ints.add(session.getString(CommonUtilities.keys.get(4)));
                                         else
-                                            ints.add(-1);
+                                            ints.add("-1");
                                         if(session.has(CommonUtilities.keys.get(5)))
-                                            ints.add(session.getInt(CommonUtilities.keys.get(5)));
+                                            ints.add(session.getString(CommonUtilities.keys.get(5)));
                                         else
-                                            ints.add(-1);
+                                            ints.add("-1");
                                         if(session.has(CommonUtilities.keys.get(6)))
-                                            ints.add(session.getInt(CommonUtilities.keys.get(6)));
+                                            ints.add(session.getString(CommonUtilities.keys.get(6)));
                                         else
-                                            ints.add(-1);
+                                            ints.add("-1");
                                         if(session.has(CommonUtilities.keys.get(7)))
-                                            ints.add(session.getInt(CommonUtilities.keys.get(7)));
+                                            ints.add(session.getString(CommonUtilities.keys.get(7)));
                                         else
-                                            ints.add(-1);
+                                            ints.add("-1");
                                         if(session.has(CommonUtilities.keys.get(8)))
-                                            ints.add(session.getInt(CommonUtilities.keys.get(8)));
+                                            ints.add(session.getString(CommonUtilities.keys.get(8)));
                                         else
-                                            ints.add(-1);
+                                            ints.add("-1");
                                         if(session.has(CommonUtilities.keys.get(9)))
-                                            ints.add(session.getInt(CommonUtilities.keys.get(9)));
+                                            ints.add(session.getString(CommonUtilities.keys.get(9)));
                                         else
-                                            ints.add(-1);
+                                            ints.add("-1");
                                         if(session.has(CommonUtilities.keys.get(10)))
-                                            ints.add(session.getInt(CommonUtilities.keys.get(10)));
+                                            ints.add(session.getString(CommonUtilities.keys.get(10)));
                                         else
-                                            ints.add(-1);
+                                            ints.add("-1");
                                         if(session.has(CommonUtilities.keys.get(11)))
-                                            ints.add(session.getInt(CommonUtilities.keys.get(11)));
+                                            ints.add(session.getString(CommonUtilities.keys.get(11)));
                                         else
-                                            ints.add(-1);
+                                            ints.add("-1");
                                         break;
                                     }
                                 }
@@ -447,69 +478,78 @@ public class MainFragment extends Fragment {
                             pd.dismiss();
                         if (ints==null || ints.isEmpty())
                             return;
-                        if (ints.get(0)==1){
+                        if (ints.get(0)=="1"){
                             gbxb1.check(R.id.yesbxb1);
                         }
-                        else if (ints.get(0)==0){
+                        else if (!ints.get(0).equals("-1")){
+                            reason.put("bxb1",ints.get(0));
                             gbxb1.check(R.id.nobxb1);
                         }
-                        if (ints.get(1)==1){
+                        if (ints.get(1)=="1"){
                             gbxb2.check(R.id.yesbxb2);
                         }
-                        else if (ints.get(1)==0){
+                        else if (!ints.get(1).equals("-1")){
+                            reason.put("bxb2",ints.get(1));
                             gbxb2.check(R.id.nobxb2);
                         }
 
-                        if (ints.get(2)==1){
+                        if (ints.get(2)=="1"){
                             gbxb3.check(R.id.yesbxb3);
                         }
 
-                        else if (ints.get(2)==0){
+                        else if (!ints.get(2).equals("-1")){
+                            reason.put("bxb3",ints.get(2));
                             gbxb3.check(R.id.nobxb3);
                         }
-                        if (ints.get(3)==1){
+                        if (ints.get(3)=="1"){
                             gzxb1.check(R.id.yeszxb1);
                         }
-                        else if (ints.get(3)==0){
+                        else if (!ints.get(3).equals("-1")){
+                            reason.put("zxb1",ints.get(3));
                             gzxb1.check(R.id.nozxb1);
                         }
 
-                        if (ints.get(4)==1){
+                        if (ints.get(4)=="1"){
                             gzxb2.check(R.id.yeszxb2);
                         }
 
-                        else if (ints.get(4)==0){
+                        else if (!ints.get(4).equals("-1")){
+                            reason.put("zxb2",ints.get(4));
                             gzxb2.check(R.id.nozxb2);
                         }
 
-                        if (ints.get(5)==1){
+                        if (ints.get(5)=="1"){
                             gzxb3.check(R.id.yeszxb3);
                         }
 
-                        else if (ints.get(5)==0){
+                        else if (!ints.get(5).equals("-1")){
+                            reason.put("zxb3",ints.get(5));
                             gzxb3.check(R.id.nozxb3);
                         }
 
-                        if (ints.get(6)==1){
+                        if (ints.get(6)=="1"){
                             gdjjtr.check(R.id.yesdjjtr);
                         }
-                        else if (ints.get(6)==0){
+                        else if (!ints.get(6).equals("-1")){
+                            reason.put("djjtr",ints.get(6));
                             gdjjtr.check(R.id.nodjjtr);
                         }
-                        if (ints.get(7)==1){
+                        if (ints.get(7)=="1"){
                             gdzb.check(R.id.yesdzb);
                         }
 
-                        else if (ints.get(7)==0){
+                        else if (!ints.get(7).equals("-1")){
+                            reason.put("dzb",ints.get(7));
                             gdzb.check(R.id.nodzb);
                         }
-                        if (ints.get(8)==1){
+                        if (ints.get(8)=="1"){
                             gqkb.check(R.id.yesqkb);
                         }
-                        else if (ints.get(8)==0){
+                        else if (!ints.get(8).equals("-1")){
+                            reason.put("qkb",ints.get(8));
                             gqkb.check(R.id.noqkb);
                         }
-
+                        initialising=false;
                     }
                 }, new Response.ErrorListener() {
 

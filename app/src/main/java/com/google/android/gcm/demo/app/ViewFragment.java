@@ -94,47 +94,47 @@ public class ViewFragment extends Fragment {
                         try {
                             objects = new JSONArray(response);
                             for (int i = 0; i < objects.length(); i++) {
-                                int bxb1=0;int bxb2=0;int bxb3=0;int zxb1=0;int zxb2=0;int zxb3=0;int djjtr=0;int dzb=0;int qkb=0;
+                                String bxb1="";String bxb2="";String bxb3="";String zxb1="";String zxb2="";String zxb3="";String djjtr="";String dzb="";String qkb="";
                                 JSONObject session = objects.getJSONObject(i);
                                 if (session.has(CommonUtilities.keys.get(3))){
                                     if (session.get(CommonUtilities.keys.get(3)) instanceof String)
                                         continue;
-                                    bxb1=session.getInt(CommonUtilities.keys.get(3));
+                                    bxb1=session.getString(CommonUtilities.keys.get(3));
                                 }
                                 if (session.has(CommonUtilities.keys.get(4)))
-                                    bxb2=session.getInt(CommonUtilities.keys.get(4));
+                                    bxb2=session.getString(CommonUtilities.keys.get(4));
                                 if (session.has(CommonUtilities.keys.get(5)))
-                                    bxb3=session.getInt(CommonUtilities.keys.get(5));
+                                    bxb3=session.getString(CommonUtilities.keys.get(5));
                                 if (session.has(CommonUtilities.keys.get(6)))
-                                    zxb1=session.getInt(CommonUtilities.keys.get(6));
+                                    zxb1=session.getString(CommonUtilities.keys.get(6));
                                 if (session.has(CommonUtilities.keys.get(7)))
-                                    zxb2=session.getInt(CommonUtilities.keys.get(7));
+                                    zxb2=session.getString(CommonUtilities.keys.get(7));
                                 if (session.has(CommonUtilities.keys.get(8)))
-                                    zxb3=session.getInt(CommonUtilities.keys.get(8));
+                                    zxb3=session.getString(CommonUtilities.keys.get(8));
                                 if (session.has(CommonUtilities.keys.get(9)))
-                                    djjtr=session.getInt(CommonUtilities.keys.get(9));
+                                    djjtr=session.getString(CommonUtilities.keys.get(9));
                                 if (session.has(CommonUtilities.keys.get(10)))
-                                    dzb=session.getInt(CommonUtilities.keys.get(10));
+                                    dzb=session.getString(CommonUtilities.keys.get(10));
                                 if (session.has(CommonUtilities.keys.get(11)))
-                                    qkb=session.getInt(CommonUtilities.keys.get(11));
+                                    qkb=session.getString(CommonUtilities.keys.get(11));
 
-                                if (bxb1==1)
+                                if (bxb1=="1")
                                     listbxb1.add(session.getString("姓名"));
-                                if (bxb2==1)
+                                if (bxb2=="1")
                                     listbxb2.add(session.getString("姓名"));
-                                if (bxb3==1)
+                                if (bxb3=="1")
                                     listbxb3.add(session.getString("姓名"));
-                                if (zxb1==1)
+                                if (zxb1=="1")
                                     listzxb1.add(session.getString("姓名"));
-                                if (zxb2==1)
+                                if (zxb2=="1")
                                     listzxb2.add(session.getString("姓名"));
-                                if (zxb3==1)
+                                if (zxb3=="1")
                                     listzxb3.add(session.getString("姓名"));
-                                if (djjtr==1)
+                                if (djjtr=="1")
                                     listdjjtr.add(session.getString("姓名"));
-                                if (dzb==1)
+                                if (dzb=="1")
                                     listdzb.add(session.getString("姓名"));
-                                if (qkb==1)
+                                if (qkb=="1")
                                     listqkb.add(session.getString("姓名"));
                             }
                         } catch (JSONException e) {

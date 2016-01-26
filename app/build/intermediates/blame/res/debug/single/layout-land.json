@@ -1,90 +1,110 @@
 [
     {
-        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
-        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
-        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\rowlayout.xml",
-        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
-    },
-    {
-        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main_activity.xml",
-        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\main_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\custom_row2.xml",
-        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
-    },
-    {
-        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
-        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
-    },
-    {
-        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
-        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\main.xml"
+        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\viewlayout.xml",
+        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\viewlayout.xml"
     },
     {
         "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\viewlayout.xml",
         "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\viewlayout.xml"
     },
     {
-        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\rowlayout.xml",
-        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
-    },
-    {
-        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\custom_row2.xml",
-        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
-    },
-    {
-        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\custom_row2.xml",
-        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
-    },
-    {
-        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\rowlayout.xml",
-        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
-    },
-    {
-        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\custom_row2.xml",
-        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\selector.xml",
-        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\selector.xml"
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\selector.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\selector.xml"
     },
     {
         "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
         "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
     },
     {
-        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\rowlayout.xml",
-        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
-    },
-    {
-        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\viewlayout.xml",
-        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\viewlayout.xml"
-    },
-    {
-        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\selector.xml",
-        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\viewlayout.xml",
-        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\viewlayout.xml"
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\rowlayout.xml",
+        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
     },
     {
         "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\selector.xml",
         "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\selector.xml"
     },
     {
+        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
+        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\custom_row2.xml",
+        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
+    },
+    {
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\rowlayout.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
+    },
+    {
+        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\selector.xml",
+        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout-land\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\custom_row2.xml",
+        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
+    },
+    {
+        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\custom_row2.xml",
+        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
+    },
+    {
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
+        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\main.xml"
+    },
+    {
+        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\viewlayout.xml",
+        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\viewlayout.xml"
+    },
+    {
+        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\custom_row2.xml",
+        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\selector.xml",
+        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\selector.xml"
+    },
+    {
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\custom_row2.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
+        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
+    },
+    {
+        "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\rowlayout.xml",
+        "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
+    },
+    {
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main_activity.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\main_activity.xml"
+    },
+    {
+        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
+        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\viewlayout.xml",
+        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout-land\\viewlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\rowlayout.xml",
+        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
+    },
+    {
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\selector.xml",
+        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\selector.xml"
+    },
+    {
         "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\viewlayout.xml",
         "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\viewlayout.xml"
     },
     {
-        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\selector.xml",
-        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\selector.xml"
+        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\rowlayout.xml",
+        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
     }
 ]

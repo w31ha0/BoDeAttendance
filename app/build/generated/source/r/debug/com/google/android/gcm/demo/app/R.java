@@ -2485,8 +2485,9 @@ containing a value of this type.
         public static final int gcm_recoverable_error=0x7f06004d;
         public static final int gcm_registered=0x7f06004e;
         public static final int gcm_unregistered=0x7f06004f;
-        public static final int hello_blank_fragment=0x7f060050;
-        public static final int hello_world=0x7f060051;
+        public static final int google_app_id=0x7f060050;
+        public static final int hello_blank_fragment=0x7f060051;
+        public static final int hello_world=0x7f060052;
         public static final int mr_media_route_button_content_description=0x7f06002e;
         public static final int mr_media_route_chooser_searching=0x7f06002f;
         public static final int mr_media_route_chooser_title=0x7f060030;
@@ -2498,22 +2499,22 @@ containing a value of this type.
         public static final int mr_media_route_controller_stop=0x7f060036;
         public static final int mr_system_route_name=0x7f060037;
         public static final int mr_user_route_category_name=0x7f060038;
-        public static final int options_clear=0x7f060052;
-        public static final int options_exit=0x7f060053;
-        public static final int options_refresh_data=0x7f060054;
-        public static final int options_register=0x7f060055;
-        public static final int options_unregister=0x7f060056;
+        public static final int options_clear=0x7f060053;
+        public static final int options_exit=0x7f060054;
+        public static final int options_refresh_data=0x7f060055;
+        public static final int options_register=0x7f060056;
+        public static final int options_unregister=0x7f060057;
         public static final int place_autocomplete_clear_button=0x7f060039;
         public static final int place_autocomplete_search_hint=0x7f06003a;
-        public static final int server_register_error=0x7f060057;
-        public static final int server_registered=0x7f060058;
-        public static final int server_registering=0x7f060059;
-        public static final int server_unregister_error=0x7f06005a;
-        public static final int server_unregistered=0x7f06005b;
+        public static final int server_register_error=0x7f060058;
+        public static final int server_registered=0x7f060059;
+        public static final int server_registering=0x7f06005a;
+        public static final int server_unregister_error=0x7f06005b;
+        public static final int server_unregistered=0x7f06005c;
         public static final int status_bar_notification_info_overflow=0x7f06003b;
-        public static final int store_picture_message=0x7f06005c;
-        public static final int store_picture_title=0x7f06005d;
-        public static final int title_activity_inventory=0x7f06005e;
+        public static final int store_picture_message=0x7f06005d;
+        public static final int store_picture_title=0x7f06005e;
+        public static final int title_activity_inventory=0x7f06005f;
         public static final int wallet_buy_button_place_holder=0x7f06003c;
     }
     public static final class style {

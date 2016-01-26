@@ -1,18 +1,22 @@
 [
     {
+        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v9\\ic_stat_gcm.png",
+        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\drawable-xhdpi-v9\\ic_stat_gcm.png"
+    },
+    {
+        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v9\\ic_stat_gcm.png",
+        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\drawable-xhdpi-v9\\ic_stat_gcm.png"
+    },
+    {
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v9\\ic_stat_gcm.png",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\drawable-xhdpi-v9\\ic_stat_gcm.png"
+    },
+    {
         "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v9\\ic_stat_gcm.png",
         "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\drawable-xhdpi-v9\\ic_stat_gcm.png"
     },
     {
         "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v9\\ic_stat_gcm.png",
         "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\drawable-xhdpi-v9\\ic_stat_gcm.png"
-    },
-    {
-        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v9\\ic_stat_gcm.png",
-        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\src\\main\\res\\drawable-xhdpi-v9\\ic_stat_gcm.png"
-    },
-    {
-        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v9\\ic_stat_gcm.png",
-        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\drawable-xhdpi-v9\\ic_stat_gcm.png"
     }
 ]

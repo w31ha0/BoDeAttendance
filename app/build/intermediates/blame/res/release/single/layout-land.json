@@ -1,5 +1,57 @@
 [
     {
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\selector.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\selector.xml"
+    },
+    {
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\viewlayout.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\viewlayout.xml"
+    },
+    {
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\custom_row2.xml",
+        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
+    },
+    {
+        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\selector.xml",
+        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout-land\\selector.xml"
+    },
+    {
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\viewlayout.xml",
+        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\viewlayout.xml"
+    },
+    {
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\rowlayout.xml",
+        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
+    },
+    {
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\fragment_main.xml",
+        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\viewlayout.xml",
+        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout-land\\viewlayout.xml"
+    },
+    {
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\fragment_main.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\main_activity.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\main_activity.xml"
+    },
+    {
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\rowlayout.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
+    },
+    {
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\selector.xml",
+        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\selector.xml"
+    },
+    {
+        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\rowlayout.xml",
+        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
+    },
+    {
         "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\main.xml",
         "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\main.xml"
     },
@@ -8,43 +60,11 @@
         "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
     },
     {
-        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\rowlayout.xml",
-        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
+        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\fragment_main.xml",
+        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
     },
     {
-        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\custom_row2.xml",
-        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
-    },
-    {
-        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\fragment_main.xml",
-        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
-    },
-    {
-        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\rowlayout.xml",
-        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\rowlayout.xml"
-    },
-    {
-        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\fragment_main.xml",
-        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
-    },
-    {
-        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\selector.xml",
-        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\selector.xml"
-    },
-    {
-        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\viewlayout.xml",
-        "source": "D:\\Git\\ClientCode\\app\\src\\main\\res\\layout-land\\viewlayout.xml"
-    },
-    {
-        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\main_activity.xml",
-        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\main_activity.xml"
-    },
-    {
-        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\viewlayout.xml",
-        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\viewlayout.xml"
-    },
-    {
-        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\selector.xml",
-        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout-land\\selector.xml"
+        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\custom_row2.xml",
+        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout-land\\custom_row2.xml"
     }
 ]

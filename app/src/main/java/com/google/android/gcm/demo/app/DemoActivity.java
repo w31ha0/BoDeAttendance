@@ -65,7 +65,7 @@ public class DemoActivity extends FragmentActivity  implements ActionBar.TabList
 	private GoogleCloudMessaging gcm;
 	static Context context;
 	private final Pubnub pubnub = new Pubnub("pub-c-5525471d-13e1-42d8-85f4-c20b1cf78f82" /* replace with your publish key */,
-			"pub-c-5525471d-13e1-42d8-85f4-c20b1cf78f82" /* replace with your subscribe key */);
+			"sub-c-b1982be6-b6d3-11e5-8f6e-0619f8945a4f" /* replace with your subscribe key */);
 	private String android_id;
 	private Button refresh;
 	public static AppSectionsPagerAdapter mAppSectionsPagerAdapter;
@@ -164,7 +164,8 @@ public class DemoActivity extends FragmentActivity  implements ActionBar.TabList
 	}
 
 	private boolean checkPlayServices() {
-		int resultCode = GooglePlayServicesUtil.isGooglePlayServicesAvailable(getApplicationContext());
+		return true;
+		/*int resultCode = GooglePlayServicesUtil.isGooglePlayServicesAvailable(getApplicationContext());
 		if (resultCode != 2) {
 			if (GooglePlayServicesUtil.isUserRecoverableError(resultCode)) {
 				GooglePlayServicesUtil.getErrorDialog(resultCode, this, PLAY_SERVICES_RESOLUTION_REQUEST).show();
@@ -174,7 +175,7 @@ public class DemoActivity extends FragmentActivity  implements ActionBar.TabList
 			}
 			return false;
 		}
-		return true;
+		return true;*/
 	}
 
 	private String getRegistrationId(Context context) throws Exception {
