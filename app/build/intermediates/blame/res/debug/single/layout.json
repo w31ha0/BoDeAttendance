@@ -8,16 +8,16 @@
         "source": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\Git\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
     },
     {
         "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
-        "source": "D:\\Git\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "D:\\Git\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rowlayout.xml",
@@ -104,12 +104,12 @@
         "source": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
         "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_row2.xml",
         "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout\\custom_row2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Lew\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "F:\\Google Drive\\Programming\\Android\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
@@ -168,16 +168,16 @@
         "source": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
-        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
-        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout\\main_activity.xml"
+        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewlayout.xml",
+        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout\\viewlayout.xml"
     },
     {
         "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "D:\\Git\\BoDeAttendance\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewlayout.xml",
-        "source": "D:\\Git\\BoDeAttendance\\app\\src\\main\\res\\layout\\viewlayout.xml"
+        "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "D:\\Sample Projects\\ClientCode\\app\\src\\main\\res\\layout\\main_activity.xml"
     },
     {
         "merged": "D:\\Sample Projects\\ClientCode\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",

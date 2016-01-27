@@ -96,6 +96,7 @@ public class SelectFragment extends Fragment {
                 Toast toast= Toast.makeText(context, "Name list has been saved successfully", Toast.LENGTH_SHORT);
                 toast.show();
                 DemoActivity.mAppSectionsPagerAdapter.notifyDataSetChanged();
+                ((DemoActivity)getActivity()).selectTab(0);
             }
         });
         return root;

@@ -50,6 +50,8 @@ public final class CommonUtilities {
 
 	public static Context context;
 
+	public static int width,height;
+
 	/**
 	 * Notifies UI to display a message.
 	 * <p>

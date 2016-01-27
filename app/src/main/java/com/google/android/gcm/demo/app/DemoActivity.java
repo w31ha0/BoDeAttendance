@@ -19,6 +19,7 @@ import android.app.ActionBar;
 import android.app.FragmentTransaction;
 import android.content.Context;
 import android.content.SharedPreferences;
+import android.graphics.Point;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.provider.Settings;
@@ -27,6 +28,7 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
+import android.view.Display;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -69,7 +71,7 @@ public class DemoActivity extends FragmentActivity  implements ActionBar.TabList
 	private String android_id;
 	private Button refresh;
 	public static AppSectionsPagerAdapter mAppSectionsPagerAdapter;
-
+	ActionBar actionBar;
 	/**
 	 * The {@link ViewPager} that will display the three primary sections of the app, one at a
 	 * time.
@@ -77,6 +79,11 @@ public class DemoActivity extends FragmentActivity  implements ActionBar.TabList
 	ViewPager mViewPager;
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
+		Display display = getWindowManager().getDefaultDisplay();
+		Point size = new Point();
+		display.getSize(size);
+		CommonUtilities.width = size.x;
+		CommonUtilities.height= size.y;
 		super.onCreate(savedInstanceState);
 	 	android_id = Settings.Secure.getString(getContentResolver(), Settings.Secure.ANDROID_ID);
 		context=this;
@@ -105,7 +112,7 @@ public class DemoActivity extends FragmentActivity  implements ActionBar.TabList
 		mAppSectionsPagerAdapter = new AppSectionsPagerAdapter(getSupportFragmentManager());
 
 		// Set up the action bar.
-		final ActionBar actionBar = getActionBar();
+		 actionBar = getActionBar();
 
 		// Specify that the Home/Up button should not be enabled, since there is no hierarchical
 		// parent.
@@ -142,6 +149,9 @@ public class DemoActivity extends FragmentActivity  implements ActionBar.TabList
 		}
 	}
 
+	public void selectTab(int position){
+		actionBar.setSelectedNavigationItem(position);
+	}
 
 	private void register() {
 		if (checkPlayServices()) {

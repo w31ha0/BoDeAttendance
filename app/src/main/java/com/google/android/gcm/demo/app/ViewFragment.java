@@ -33,7 +33,6 @@ import java.util.List;
  * Created by Wei Hao on 1/6/2016.
  */
 public class ViewFragment extends Fragment {
-    private static List<String> listbxb1,listbxb2,listbxb3,listdjjtr,listdzb,listqkb,listzxb1,listzxb2,listzxb3;
     private ListView listview;
     private Context context;
     MergeAdapter myMergeAdapter;
@@ -56,24 +55,6 @@ public class ViewFragment extends Fragment {
         att=new ArrayList<Integer>();
         att2=new ArrayList<Integer>();
         banqiMap=new HashMap<Integer,List<String>>();
-        listbxb1=new ArrayList<String>();
-        listbxb2=new ArrayList<String>();
-        listbxb3=new ArrayList<String>();
-        listzxb1=new ArrayList<String>();
-        listzxb2=new ArrayList<String>();
-        listzxb3=new ArrayList<String>();
-        listdjjtr=new ArrayList<String>();
-        listdzb=new ArrayList<String>();
-        listqkb=new ArrayList<String>();
-        banqiMap.put(3,listbxb1);
-        banqiMap.put(4,listbxb2);
-        banqiMap.put(5,listbxb3);
-        banqiMap.put(6,listzxb1);
-        banqiMap.put(7,listzxb2);
-        banqiMap.put(8,listzxb3);
-        banqiMap.put(9,listdjjtr);
-        banqiMap.put(10,listdzb);
-        banqiMap.put(11,listqkb);
         listview= (ListView) root.findViewById(R.id.listview);
         myMergeAdapter = new MergeAdapter();
         grab();
@@ -93,55 +74,26 @@ public class ViewFragment extends Fragment {
                         JSONArray objects = null;
                         try {
                             objects = new JSONArray(response);
+                            for (int i=0;i<CommonUtilities.keys.size();i++)
+                                banqiMap.put(i,new ArrayList<String>());
                             for (int i = 0; i < objects.length(); i++) {
-                                String bxb1="";String bxb2="";String bxb3="";String zxb1="";String zxb2="";String zxb3="";String djjtr="";String dzb="";String qkb="";
+                                HashMap<String,String> map=new HashMap<String,String>();
                                 JSONObject session = objects.getJSONObject(i);
-                                if (session.has(CommonUtilities.keys.get(3))){
-                                    if (session.get(CommonUtilities.keys.get(3)) instanceof String)
-                                        continue;
-                                    bxb1=session.getString(CommonUtilities.keys.get(3));
+                                for (int x=0;x<CommonUtilities.keys.size();x++){
+                                    String key=CommonUtilities.keys.get(x);
+                                    String result;
+                                    if (session.has(key)){
+                                        result=session.getString(key);
+                                        if(result=="1")
+                                            banqiMap.get(x).add(session.getString("姓名"));
+                                    }
                                 }
-                                if (session.has(CommonUtilities.keys.get(4)))
-                                    bxb2=session.getString(CommonUtilities.keys.get(4));
-                                if (session.has(CommonUtilities.keys.get(5)))
-                                    bxb3=session.getString(CommonUtilities.keys.get(5));
-                                if (session.has(CommonUtilities.keys.get(6)))
-                                    zxb1=session.getString(CommonUtilities.keys.get(6));
-                                if (session.has(CommonUtilities.keys.get(7)))
-                                    zxb2=session.getString(CommonUtilities.keys.get(7));
-                                if (session.has(CommonUtilities.keys.get(8)))
-                                    zxb3=session.getString(CommonUtilities.keys.get(8));
-                                if (session.has(CommonUtilities.keys.get(9)))
-                                    djjtr=session.getString(CommonUtilities.keys.get(9));
-                                if (session.has(CommonUtilities.keys.get(10)))
-                                    dzb=session.getString(CommonUtilities.keys.get(10));
-                                if (session.has(CommonUtilities.keys.get(11)))
-                                    qkb=session.getString(CommonUtilities.keys.get(11));
-
-                                if (bxb1=="1")
-                                    listbxb1.add(session.getString("姓名"));
-                                if (bxb2=="1")
-                                    listbxb2.add(session.getString("姓名"));
-                                if (bxb3=="1")
-                                    listbxb3.add(session.getString("姓名"));
-                                if (zxb1=="1")
-                                    listzxb1.add(session.getString("姓名"));
-                                if (zxb2=="1")
-                                    listzxb2.add(session.getString("姓名"));
-                                if (zxb3=="1")
-                                    listzxb3.add(session.getString("姓名"));
-                                if (djjtr=="1")
-                                    listdjjtr.add(session.getString("姓名"));
-                                if (dzb=="1")
-                                    listdzb.add(session.getString("姓名"));
-                                if (qkb=="1")
-                                    listqkb.add(session.getString("姓名"));
                             }
                         } catch (JSONException e) {
                             e.printStackTrace();
                         }
-                        for (int i=3;i<12;i++){
-                            myMergeAdapter.addView(buildLabel(CommonUtilities.keys.get(i),0,15));
+                        for (int i=0;i<CommonUtilities.keys.size();i++){
+                            myMergeAdapter.addView(buildLabel(CommonUtilities.keys.get(i),0,22));
                             myMergeAdapter.addView(buildLabel("C 组",10,12));
                             Iterator<String> iterator=banqiMap.get(i).iterator();
                             List<String> tmplist=new ArrayList<String>();

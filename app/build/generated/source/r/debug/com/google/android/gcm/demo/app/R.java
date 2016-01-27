@@ -2148,7 +2148,7 @@ containing a value of this type.
     }
     public static final class id {
         public static final int BY_name=0x7f0c0074;
-        public static final int action0=0x7f0c00ab;
+        public static final int action0=0x7f0c0087;
         public static final int action_bar=0x7f0c0065;
         public static final int action_bar_activity_content=0x7f0c0000;
         public static final int action_bar_container=0x7f0c0064;
@@ -2157,13 +2157,13 @@ containing a value of this type.
         public static final int action_bar_subtitle=0x7f0c0049;
         public static final int action_bar_title=0x7f0c0048;
         public static final int action_context_bar=0x7f0c0066;
-        public static final int action_divider=0x7f0c00af;
+        public static final int action_divider=0x7f0c008b;
         public static final int action_menu_divider=0x7f0c0002;
         public static final int action_menu_presenter=0x7f0c0003;
         public static final int action_mode_bar=0x7f0c0062;
         public static final int action_mode_bar_stub=0x7f0c0061;
         public static final int action_mode_close_button=0x7f0c004a;
-        public static final int action_settings=0x7f0c00c6;
+        public static final int action_settings=0x7f0c00a2;
         public static final int activity_chooser_view_content=0x7f0c004b;
         public static final int adjust_height=0x7f0c001d;
         public static final int adjust_width=0x7f0c001e;
@@ -2173,26 +2173,22 @@ containing a value of this type.
         public static final int android_pay_dark=0x7f0c003e;
         public static final int android_pay_light=0x7f0c003f;
         public static final int android_pay_light_with_border=0x7f0c0040;
-        public static final int art=0x7f0c00a3;
+        public static final int art=0x7f0c007f;
         public static final int auto=0x7f0c002a;
         public static final int beginning=0x7f0c001a;
         public static final int book_now=0x7f0c0037;
-        public static final int button=0x7f0c009a;
-        public static final int button2=0x7f0c00c4;
+        public static final int button2=0x7f0c00a0;
         public static final int buttonPanel=0x7f0c005b;
-        public static final int button_refresh=0x7f0c009c;
-        public static final int buttons=0x7f0c00a8;
+        public static final int button_refresh=0x7f0c0078;
+        public static final int buttons=0x7f0c0084;
         public static final int buyButton=0x7f0c0034;
         public static final int buy_now=0x7f0c0038;
         public static final int buy_with=0x7f0c0039;
         public static final int buy_with_google=0x7f0c003a;
-        public static final int bxb1=0x7f0c0076;
-        public static final int bxb2=0x7f0c007a;
-        public static final int bxb3=0x7f0c007e;
-        public static final int cancel_action=0x7f0c00ac;
+        public static final int cancel_action=0x7f0c0088;
         public static final int cast_notification_id=0x7f0c0004;
         public static final int checkbox=0x7f0c005d;
-        public static final int chronometer=0x7f0c00b2;
+        public static final int chronometer=0x7f0c008e;
         public static final int classic=0x7f0c0041;
         public static final int collapseActionView=0x7f0c0023;
         public static final int contentPanel=0x7f0c0056;
@@ -2201,16 +2197,14 @@ containing a value of this type.
         public static final int dark=0x7f0c002b;
         public static final int decor_content_parent=0x7f0c0063;
         public static final int default_activity_button=0x7f0c004e;
-        public static final int default_control_frame=0x7f0c00a2;
+        public static final int default_control_frame=0x7f0c007e;
         public static final int disableHome=0x7f0c000d;
-        public static final int disconnect=0x7f0c00a9;
-        public static final int djjtr=0x7f0c008e;
+        public static final int disconnect=0x7f0c0085;
         public static final int donate_with=0x7f0c003b;
         public static final int donate_with_google=0x7f0c003c;
-        public static final int dzb=0x7f0c0092;
         public static final int edit_query=0x7f0c0067;
         public static final int end=0x7f0c001b;
-        public static final int end_padder=0x7f0c00b7;
+        public static final int end_padder=0x7f0c0093;
         public static final int expand_activities_button=0x7f0c004c;
         public static final int expanded_menu=0x7f0c005c;
         public static final int google_wallet_classic=0x7f0c0042;
@@ -2226,70 +2220,52 @@ containing a value of this type.
         public static final int icon_only=0x7f0c0027;
         public static final int ifRoom=0x7f0c0024;
         public static final int image=0x7f0c004d;
-        public static final int info=0x7f0c00b6;
-        public static final int inventoryCount=0x7f0c00c2;
-        public static final int inventoryName=0x7f0c00c0;
-        public static final int label=0x7f0c00c1;
+        public static final int info=0x7f0c0092;
+        public static final int inventoryCount=0x7f0c009e;
+        public static final int inventoryName=0x7f0c009c;
+        public static final int label=0x7f0c009d;
+        public static final int layoutmain=0x7f0c0075;
         public static final int light=0x7f0c002c;
-        public static final int line1=0x7f0c00b0;
-        public static final int line3=0x7f0c00b4;
+        public static final int line1=0x7f0c008c;
+        public static final int line3=0x7f0c0090;
         public static final int listMode=0x7f0c000a;
-        public static final int listView=0x7f0c00c3;
+        public static final int listView=0x7f0c009f;
         public static final int list_item=0x7f0c004f;
-        public static final int listview=0x7f0c00c5;
+        public static final int listview=0x7f0c00a1;
         public static final int logo_only=0x7f0c003d;
         public static final int match_parent=0x7f0c0036;
-        public static final int media_actions=0x7f0c00ae;
-        public static final int media_route_control_frame=0x7f0c00a1;
-        public static final int media_route_list=0x7f0c009d;
-        public static final int media_route_volume_layout=0x7f0c00a6;
-        public static final int media_route_volume_slider=0x7f0c00a7;
+        public static final int media_actions=0x7f0c008a;
+        public static final int media_route_control_frame=0x7f0c007d;
+        public static final int media_route_list=0x7f0c0079;
+        public static final int media_route_volume_layout=0x7f0c0082;
+        public static final int media_route_volume_slider=0x7f0c0083;
         public static final int middle=0x7f0c001c;
         public static final int monochrome=0x7f0c0046;
         public static final int multiply=0x7f0c0014;
         public static final int never=0x7f0c0025;
-        public static final int nobxb1=0x7f0c0079;
-        public static final int nobxb2=0x7f0c007d;
-        public static final int nobxb3=0x7f0c0081;
-        public static final int nodjjtr=0x7f0c0091;
-        public static final int nodzb=0x7f0c0095;
         public static final int none=0x7f0c000f;
-        public static final int noqkb=0x7f0c0099;
         public static final int normal=0x7f0c000b;
-        public static final int nozxb1=0x7f0c0085;
-        public static final int nozxb2=0x7f0c0089;
-        public static final int nozxb3=0x7f0c008d;
-        public static final int options_clear=0x7f0c00c9;
-        public static final int options_exit=0x7f0c00ca;
-        public static final int options_refresh_data=0x7f0c00cb;
-        public static final int options_register=0x7f0c00c7;
-        public static final int options_unregister=0x7f0c00c8;
-        public static final int pager=0x7f0c009b;
+        public static final int options_clear=0x7f0c00a5;
+        public static final int options_exit=0x7f0c00a6;
+        public static final int options_refresh_data=0x7f0c00a7;
+        public static final int options_register=0x7f0c00a3;
+        public static final int options_unregister=0x7f0c00a4;
+        public static final int pager=0x7f0c0077;
         public static final int parentPanel=0x7f0c0052;
-        public static final int place_autocomplete_clear_button=0x7f0c00ba;
-        public static final int place_autocomplete_powered_by_google=0x7f0c00bc;
-        public static final int place_autocomplete_prediction_primary_text=0x7f0c00be;
-        public static final int place_autocomplete_prediction_secondary_text=0x7f0c00bf;
-        public static final int place_autocomplete_progress=0x7f0c00bd;
-        public static final int place_autocomplete_search_button=0x7f0c00b8;
-        public static final int place_autocomplete_search_input=0x7f0c00b9;
-        public static final int place_autocomplete_separator=0x7f0c00bb;
-        public static final int play_pause=0x7f0c00a4;
+        public static final int place_autocomplete_clear_button=0x7f0c0096;
+        public static final int place_autocomplete_powered_by_google=0x7f0c0098;
+        public static final int place_autocomplete_prediction_primary_text=0x7f0c009a;
+        public static final int place_autocomplete_prediction_secondary_text=0x7f0c009b;
+        public static final int place_autocomplete_progress=0x7f0c0099;
+        public static final int place_autocomplete_search_button=0x7f0c0094;
+        public static final int place_autocomplete_search_input=0x7f0c0095;
+        public static final int place_autocomplete_separator=0x7f0c0097;
+        public static final int play_pause=0x7f0c0080;
         public static final int production=0x7f0c0030;
         public static final int progress_circular=0x7f0c0006;
         public static final int progress_horizontal=0x7f0c0007;
-        public static final int qkb=0x7f0c0096;
         public static final int radio=0x7f0c005f;
-        public static final int radioGroup1=0x7f0c0077;
-        public static final int radioGroup2=0x7f0c007b;
-        public static final int radioGroup3=0x7f0c007f;
-        public static final int radioGroup4=0x7f0c0083;
-        public static final int radioGroup5=0x7f0c0087;
-        public static final int radioGroup6=0x7f0c008b;
-        public static final int radioGroup7=0x7f0c008f;
-        public static final int radioGroup8=0x7f0c0093;
-        public static final int radioGroup9=0x7f0c0097;
-        public static final int route_name=0x7f0c009f;
+        public static final int route_name=0x7f0c007b;
         public static final int sandbox=0x7f0c0031;
         public static final int satellite=0x7f0c0020;
         public static final int screen=0x7f0c0015;
@@ -2306,32 +2282,32 @@ containing a value of this type.
         public static final int search_voice_btn=0x7f0c0072;
         public static final int select_dialog_listview=0x7f0c0073;
         public static final int selectionDetails=0x7f0c0035;
-        public static final int settings=0x7f0c00a0;
+        public static final int settings=0x7f0c007c;
         public static final int shortcut=0x7f0c005e;
         public static final int showCustom=0x7f0c0010;
         public static final int showHome=0x7f0c0011;
         public static final int showTitle=0x7f0c0012;
         public static final int slide=0x7f0c0019;
-        public static final int spinner1=0x7f0c0075;
+        public static final int spinner1=0x7f0c0076;
         public static final int split_action_bar=0x7f0c0008;
         public static final int src_atop=0x7f0c0016;
         public static final int src_in=0x7f0c0017;
         public static final int src_over=0x7f0c0018;
         public static final int standard=0x7f0c0028;
-        public static final int status_bar_latest_event_content=0x7f0c00ad;
-        public static final int stop=0x7f0c00aa;
+        public static final int status_bar_latest_event_content=0x7f0c0089;
+        public static final int stop=0x7f0c0086;
         public static final int strict_sandbox=0x7f0c0032;
         public static final int submit_area=0x7f0c0070;
-        public static final int subtitle=0x7f0c00a5;
+        public static final int subtitle=0x7f0c0081;
         public static final int tabMode=0x7f0c000c;
         public static final int terrain=0x7f0c0021;
         public static final int test=0x7f0c0033;
-        public static final int text=0x7f0c00b5;
-        public static final int text2=0x7f0c00b3;
+        public static final int text=0x7f0c0091;
+        public static final int text2=0x7f0c008f;
         public static final int textSpacerNoButtons=0x7f0c0058;
-        public static final int time=0x7f0c00b1;
+        public static final int time=0x7f0c008d;
         public static final int title=0x7f0c0051;
-        public static final int title_bar=0x7f0c009e;
+        public static final int title_bar=0x7f0c007a;
         public static final int title_template=0x7f0c0054;
         public static final int topPanel=0x7f0c0053;
         public static final int up=0x7f0c0009;
@@ -2339,18 +2315,6 @@ containing a value of this type.
         public static final int wide=0x7f0c0029;
         public static final int withText=0x7f0c0026;
         public static final int wrap_content=0x7f0c002d;
-        public static final int yesbxb1=0x7f0c0078;
-        public static final int yesbxb2=0x7f0c007c;
-        public static final int yesbxb3=0x7f0c0080;
-        public static final int yesdjjtr=0x7f0c0090;
-        public static final int yesdzb=0x7f0c0094;
-        public static final int yesqkb=0x7f0c0098;
-        public static final int yeszxb1=0x7f0c0084;
-        public static final int yeszxb2=0x7f0c0088;
-        public static final int yeszxb3=0x7f0c008c;
-        public static final int zxb1=0x7f0c0082;
-        public static final int zxb2=0x7f0c0086;
-        public static final int zxb3=0x7f0c008a;
     }
     public static final class integer {
         public static final int abc_config_activityDefaultDur=0x7f0a0001;
@@ -2842,33 +2806,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.google.android.gcm.demo.app:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.google.android.gcm.demo.app:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.google.android.gcm.demo.app:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.google.android.gcm.demo.app:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.google.android.gcm.demo.app:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.google.android.gcm.demo.app:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.google.android.gcm.demo.app:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.google.android.gcm.demo.app:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.google.android.gcm.demo.app:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.google.android.gcm.demo.app:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.google.android.gcm.demo.app:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.google.android.gcm.demo.app:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.google.android.gcm.demo.app:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.google.android.gcm.demo.app:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.google.android.gcm.demo.app:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.google.android.gcm.demo.app:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.google.android.gcm.demo.app:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.google.android.gcm.demo.app:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.google.android.gcm.demo.app:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.google.android.gcm.demo.app:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.google.android.gcm.demo.app:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.google.android.gcm.demo.app:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.google.android.gcm.demo.app:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.google.android.gcm.demo.app:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.google.android.gcm.demo.app:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.google.android.gcm.demo.app:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.google.android.gcm.demo.app:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background weihao.gcm.demo.app:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit weihao.gcm.demo.app:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked weihao.gcm.demo.app:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd weihao.gcm.demo.app:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft weihao.gcm.demo.app:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight weihao.gcm.demo.app:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart weihao.gcm.demo.app:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout weihao.gcm.demo.app:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions weihao.gcm.demo.app:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider weihao.gcm.demo.app:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation weihao.gcm.demo.app:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height weihao.gcm.demo.app:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll weihao.gcm.demo.app:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator weihao.gcm.demo.app:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout weihao.gcm.demo.app:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon weihao.gcm.demo.app:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle weihao.gcm.demo.app:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding weihao.gcm.demo.app:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo weihao.gcm.demo.app:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode weihao.gcm.demo.app:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme weihao.gcm.demo.app:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding weihao.gcm.demo.app:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle weihao.gcm.demo.app:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle weihao.gcm.demo.app:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle weihao.gcm.demo.app:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title weihao.gcm.demo.app:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle weihao.gcm.demo.app:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2908,17 +2872,17 @@ containing a value of this type.
             0x7f010022, 0x7f010023, 0x7f01009f
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#background}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:background
+          @attr name weihao.gcm.demo.app:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2926,11 +2890,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gcm.demo.app:backgroundSplit
+          @attr name weihao.gcm.demo.app:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2938,11 +2902,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gcm.demo.app:backgroundStacked
+          @attr name weihao.gcm.demo.app:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2954,11 +2918,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:contentInsetEnd
+          @attr name weihao.gcm.demo.app:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2970,11 +2934,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:contentInsetLeft
+          @attr name weihao.gcm.demo.app:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2986,11 +2950,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:contentInsetRight
+          @attr name weihao.gcm.demo.app:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3002,21 +2966,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:contentInsetStart
+          @attr name weihao.gcm.demo.app:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:customNavigationLayout
+          @attr name weihao.gcm.demo.app:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3034,21 +2998,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:displayOptions
+          @attr name weihao.gcm.demo.app:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#divider}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:divider
+          @attr name weihao.gcm.demo.app:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#elevation}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3060,11 +3024,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:elevation
+          @attr name weihao.gcm.demo.app:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#height}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3076,11 +3040,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:height
+          @attr name weihao.gcm.demo.app:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3090,51 +3054,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:hideOnContentScroll
+          @attr name weihao.gcm.demo.app:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:homeAsUpIndicator
+          @attr name weihao.gcm.demo.app:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:homeLayout
+          @attr name weihao.gcm.demo.app:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#icon}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:icon
+          @attr name weihao.gcm.demo.app:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:indeterminateProgressStyle
+          @attr name weihao.gcm.demo.app:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3146,21 +3110,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:itemPadding
+          @attr name weihao.gcm.demo.app:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#logo}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:logo
+          @attr name weihao.gcm.demo.app:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3174,21 +3138,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:navigationMode
+          @attr name weihao.gcm.demo.app:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:popupTheme
+          @attr name weihao.gcm.demo.app:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3200,21 +3164,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:progressBarPadding
+          @attr name weihao.gcm.demo.app:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:progressBarStyle
+          @attr name weihao.gcm.demo.app:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3224,21 +3188,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:subtitle
+          @attr name weihao.gcm.demo.app:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:subtitleTextStyle
+          @attr name weihao.gcm.demo.app:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#title}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3248,17 +3212,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:title
+          @attr name weihao.gcm.demo.app:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:titleTextStyle
+          @attr name weihao.gcm.demo.app:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3310,12 +3274,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.google.android.gcm.demo.app:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.google.android.gcm.demo.app:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.google.android.gcm.demo.app:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.google.android.gcm.demo.app:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.google.android.gcm.demo.app:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.google.android.gcm.demo.app:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background weihao.gcm.demo.app:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit weihao.gcm.demo.app:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout weihao.gcm.demo.app:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height weihao.gcm.demo.app:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle weihao.gcm.demo.app:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle weihao.gcm.demo.app:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3329,17 +3293,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010016, 0x7f010024
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#background}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:background
+          @attr name weihao.gcm.demo.app:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3347,21 +3311,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gcm.demo.app:backgroundSplit
+          @attr name weihao.gcm.demo.app:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:closeItemLayout
+          @attr name weihao.gcm.demo.app:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#height}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3373,27 +3337,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:height
+          @attr name weihao.gcm.demo.app:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:subtitleTextStyle
+          @attr name weihao.gcm.demo.app:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:titleTextStyle
+          @attr name weihao.gcm.demo.app:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -3402,8 +3366,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.google.android.gcm.demo.app:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.google.android.gcm.demo.app:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable weihao.gcm.demo.app:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount weihao.gcm.demo.app:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3412,17 +3376,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010025, 0x7f010026
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:expandActivityOverflowButtonDrawable
+          @attr name weihao.gcm.demo.app:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -3432,7 +3396,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:initialActivityCount
+          @attr name weihao.gcm.demo.app:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AdsAttrs.
@@ -3441,9 +3405,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AdsAttrs_adSize com.google.android.gcm.demo.app:adSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adSizes com.google.android.gcm.demo.app:adSizes}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adUnitId com.google.android.gcm.demo.app:adUnitId}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adSize weihao.gcm.demo.app:adSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adSizes weihao.gcm.demo.app:adSizes}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adUnitId weihao.gcm.demo.app:adUnitId}</code></td><td></td></tr>
            </table>
            @see #AdsAttrs_adSize
            @see #AdsAttrs_adSizes
@@ -3453,7 +3417,7 @@ containing a value of this type.
             0x7f010027, 0x7f010028, 0x7f010029
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#adSize}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#adSize}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -3463,11 +3427,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:adSize
+          @attr name weihao.gcm.demo.app:adSize
         */
         public static final int AdsAttrs_adSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#adSizes}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#adSizes}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -3477,11 +3441,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:adSizes
+          @attr name weihao.gcm.demo.app:adSizes
         */
         public static final int AdsAttrs_adSizes = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#adUnitId}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#adUnitId}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -3491,7 +3455,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:adUnitId
+          @attr name weihao.gcm.demo.app:adUnitId
         */
         public static final int AdsAttrs_adUnitId = 2;
         /** Attributes that can be used with a AlertDialog.
@@ -3501,11 +3465,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.google.android.gcm.demo.app:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.google.android.gcm.demo.app:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.google.android.gcm.demo.app:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.google.android.gcm.demo.app:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.google.android.gcm.demo.app:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout weihao.gcm.demo.app:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout weihao.gcm.demo.app:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout weihao.gcm.demo.app:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout weihao.gcm.demo.app:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout weihao.gcm.demo.app:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -3525,53 +3489,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:buttonPanelSideLayout
+          @attr name weihao.gcm.demo.app:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:listItemLayout
+          @attr name weihao.gcm.demo.app:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:listLayout
+          @attr name weihao.gcm.demo.app:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:multiChoiceItemLayout
+          @attr name weihao.gcm.demo.app:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:singleChoiceItemLayout
+          @attr name weihao.gcm.demo.app:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatTextView.
@@ -3581,7 +3545,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.google.android.gcm.demo.app:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps weihao.gcm.demo.app:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3596,14 +3560,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.google.android.gcm.demo.app:textAllCaps
+          @attr name weihao.gcm.demo.app:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a CompoundButton.
@@ -3613,8 +3577,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.google.android.gcm.demo.app:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.google.android.gcm.demo.app:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint weihao.gcm.demo.app:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode weihao.gcm.demo.app:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -3630,7 +3594,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -3641,11 +3605,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:buttonTint
+          @attr name weihao.gcm.demo.app:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -3661,7 +3625,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:buttonTintMode
+          @attr name weihao.gcm.demo.app:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CustomWalletTheme.
@@ -3670,7 +3634,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CustomWalletTheme_windowTransitionStyle com.google.android.gcm.demo.app:windowTransitionStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CustomWalletTheme_windowTransitionStyle weihao.gcm.demo.app:windowTransitionStyle}</code></td><td></td></tr>
            </table>
            @see #CustomWalletTheme_windowTransitionStyle
          */
@@ -3678,7 +3642,7 @@ containing a value of this type.
             0x7f010032
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#windowTransitionStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#windowTransitionStyle}
           attribute's value can be found in the {@link #CustomWalletTheme} array.
 
 
@@ -3691,7 +3655,7 @@ containing a value of this type.
 <tr><td><code>slide</code></td><td>1</td><td></td></tr>
 <tr><td><code>none</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:windowTransitionStyle
+          @attr name weihao.gcm.demo.app:windowTransitionStyle
         */
         public static final int CustomWalletTheme_windowTransitionStyle = 0;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -3700,14 +3664,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.google.android.gcm.demo.app:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.google.android.gcm.demo.app:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.google.android.gcm.demo.app:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.google.android.gcm.demo.app:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.google.android.gcm.demo.app:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.google.android.gcm.demo.app:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.google.android.gcm.demo.app:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.google.android.gcm.demo.app:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength weihao.gcm.demo.app:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength weihao.gcm.demo.app:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength weihao.gcm.demo.app:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color weihao.gcm.demo.app:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize weihao.gcm.demo.app:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars weihao.gcm.demo.app:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars weihao.gcm.demo.app:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness weihao.gcm.demo.app:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -3723,7 +3687,7 @@ containing a value of this type.
             0x7f010037, 0x7f010038, 0x7f010039, 0x7f01003a
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3735,11 +3699,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:arrowHeadLength
+          @attr name weihao.gcm.demo.app:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3751,11 +3715,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:arrowShaftLength
+          @attr name weihao.gcm.demo.app:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#barLength}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3767,11 +3731,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:barLength
+          @attr name weihao.gcm.demo.app:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#color}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3782,11 +3746,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:color
+          @attr name weihao.gcm.demo.app:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3798,11 +3762,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:drawableSize
+          @attr name weihao.gcm.demo.app:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3814,11 +3778,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:gapBetweenBars
+          @attr name weihao.gcm.demo.app:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3828,11 +3792,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:spinBars
+          @attr name weihao.gcm.demo.app:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#thickness}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3844,7 +3808,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:thickness
+          @attr name weihao.gcm.demo.app:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -3858,10 +3822,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.google.android.gcm.demo.app:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.google.android.gcm.demo.app:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.google.android.gcm.demo.app:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.google.android.gcm.demo.app:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider weihao.gcm.demo.app:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding weihao.gcm.demo.app:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild weihao.gcm.demo.app:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers weihao.gcm.demo.app:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -3909,17 +3873,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#divider}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:divider
+          @attr name weihao.gcm.demo.app:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3931,11 +3895,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:dividerPadding
+          @attr name weihao.gcm.demo.app:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3945,11 +3909,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:measureWithLargestChild
+          @attr name weihao.gcm.demo.app:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3964,7 +3928,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:showDividers
+          @attr name weihao.gcm.demo.app:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -4043,9 +4007,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LoadingImageView_circleCrop com.google.android.gcm.demo.app:circleCrop}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.google.android.gcm.demo.app:imageAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.google.android.gcm.demo.app:imageAspectRatioAdjust}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_circleCrop weihao.gcm.demo.app:circleCrop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatio weihao.gcm.demo.app:imageAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust weihao.gcm.demo.app:imageAspectRatioAdjust}</code></td><td></td></tr>
            </table>
            @see #LoadingImageView_circleCrop
            @see #LoadingImageView_imageAspectRatio
@@ -4055,7 +4019,7 @@ containing a value of this type.
             0x7f01003e, 0x7f01003f, 0x7f010040
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#circleCrop}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#circleCrop}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -4065,11 +4029,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:circleCrop
+          @attr name weihao.gcm.demo.app:circleCrop
         */
         public static final int LoadingImageView_circleCrop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#imageAspectRatio}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#imageAspectRatio}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -4079,11 +4043,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:imageAspectRatio
+          @attr name weihao.gcm.demo.app:imageAspectRatio
         */
         public static final int LoadingImageView_imageAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#imageAspectRatioAdjust}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#imageAspectRatioAdjust}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -4097,7 +4061,7 @@ containing a value of this type.
 <tr><td><code>adjust_width</code></td><td>1</td><td></td></tr>
 <tr><td><code>adjust_height</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:imageAspectRatioAdjust
+          @attr name weihao.gcm.demo.app:imageAspectRatioAdjust
         */
         public static final int LoadingImageView_imageAspectRatioAdjust = 0;
         /** Attributes that can be used with a MapAttrs.
@@ -4106,23 +4070,23 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MapAttrs_ambientEnabled com.google.android.gcm.demo.app:ambientEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraBearing com.google.android.gcm.demo.app:cameraBearing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLat com.google.android.gcm.demo.app:cameraTargetLat}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLng com.google.android.gcm.demo.app:cameraTargetLng}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTilt com.google.android.gcm.demo.app:cameraTilt}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraZoom com.google.android.gcm.demo.app:cameraZoom}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_liteMode com.google.android.gcm.demo.app:liteMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_mapType com.google.android.gcm.demo.app:mapType}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiCompass com.google.android.gcm.demo.app:uiCompass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiMapToolbar com.google.android.gcm.demo.app:uiMapToolbar}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiRotateGestures com.google.android.gcm.demo.app:uiRotateGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiScrollGestures com.google.android.gcm.demo.app:uiScrollGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiTiltGestures com.google.android.gcm.demo.app:uiTiltGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomControls com.google.android.gcm.demo.app:uiZoomControls}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomGestures com.google.android.gcm.demo.app:uiZoomGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_useViewLifecycle com.google.android.gcm.demo.app:useViewLifecycle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_zOrderOnTop com.google.android.gcm.demo.app:zOrderOnTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_ambientEnabled weihao.gcm.demo.app:ambientEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraBearing weihao.gcm.demo.app:cameraBearing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTargetLat weihao.gcm.demo.app:cameraTargetLat}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTargetLng weihao.gcm.demo.app:cameraTargetLng}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTilt weihao.gcm.demo.app:cameraTilt}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraZoom weihao.gcm.demo.app:cameraZoom}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_liteMode weihao.gcm.demo.app:liteMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_mapType weihao.gcm.demo.app:mapType}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiCompass weihao.gcm.demo.app:uiCompass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiMapToolbar weihao.gcm.demo.app:uiMapToolbar}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiRotateGestures weihao.gcm.demo.app:uiRotateGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiScrollGestures weihao.gcm.demo.app:uiScrollGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiTiltGestures weihao.gcm.demo.app:uiTiltGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiZoomControls weihao.gcm.demo.app:uiZoomControls}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiZoomGestures weihao.gcm.demo.app:uiZoomGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_useViewLifecycle weihao.gcm.demo.app:useViewLifecycle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_zOrderOnTop weihao.gcm.demo.app:zOrderOnTop}</code></td><td></td></tr>
            </table>
            @see #MapAttrs_ambientEnabled
            @see #MapAttrs_cameraBearing
@@ -4150,7 +4114,7 @@ containing a value of this type.
             0x7f010051
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#ambientEnabled}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#ambientEnabled}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4160,11 +4124,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:ambientEnabled
+          @attr name weihao.gcm.demo.app:ambientEnabled
         */
         public static final int MapAttrs_ambientEnabled = 16;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#cameraBearing}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#cameraBearing}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4174,11 +4138,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:cameraBearing
+          @attr name weihao.gcm.demo.app:cameraBearing
         */
         public static final int MapAttrs_cameraBearing = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#cameraTargetLat}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#cameraTargetLat}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4188,11 +4152,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:cameraTargetLat
+          @attr name weihao.gcm.demo.app:cameraTargetLat
         */
         public static final int MapAttrs_cameraTargetLat = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#cameraTargetLng}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#cameraTargetLng}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4202,11 +4166,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:cameraTargetLng
+          @attr name weihao.gcm.demo.app:cameraTargetLng
         */
         public static final int MapAttrs_cameraTargetLng = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#cameraTilt}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#cameraTilt}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4216,11 +4180,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:cameraTilt
+          @attr name weihao.gcm.demo.app:cameraTilt
         */
         public static final int MapAttrs_cameraTilt = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#cameraZoom}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#cameraZoom}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4230,11 +4194,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:cameraZoom
+          @attr name weihao.gcm.demo.app:cameraZoom
         */
         public static final int MapAttrs_cameraZoom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#liteMode}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#liteMode}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4244,11 +4208,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:liteMode
+          @attr name weihao.gcm.demo.app:liteMode
         */
         public static final int MapAttrs_liteMode = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#mapType}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#mapType}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4264,11 +4228,11 @@ containing a value of this type.
 <tr><td><code>terrain</code></td><td>3</td><td></td></tr>
 <tr><td><code>hybrid</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:mapType
+          @attr name weihao.gcm.demo.app:mapType
         */
         public static final int MapAttrs_mapType = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#uiCompass}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#uiCompass}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4278,11 +4242,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:uiCompass
+          @attr name weihao.gcm.demo.app:uiCompass
         */
         public static final int MapAttrs_uiCompass = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#uiMapToolbar}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#uiMapToolbar}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4292,11 +4256,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:uiMapToolbar
+          @attr name weihao.gcm.demo.app:uiMapToolbar
         */
         public static final int MapAttrs_uiMapToolbar = 15;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#uiRotateGestures}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#uiRotateGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4306,11 +4270,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:uiRotateGestures
+          @attr name weihao.gcm.demo.app:uiRotateGestures
         */
         public static final int MapAttrs_uiRotateGestures = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#uiScrollGestures}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#uiScrollGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4320,11 +4284,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:uiScrollGestures
+          @attr name weihao.gcm.demo.app:uiScrollGestures
         */
         public static final int MapAttrs_uiScrollGestures = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#uiTiltGestures}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#uiTiltGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4334,11 +4298,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:uiTiltGestures
+          @attr name weihao.gcm.demo.app:uiTiltGestures
         */
         public static final int MapAttrs_uiTiltGestures = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#uiZoomControls}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#uiZoomControls}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4348,11 +4312,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:uiZoomControls
+          @attr name weihao.gcm.demo.app:uiZoomControls
         */
         public static final int MapAttrs_uiZoomControls = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#uiZoomGestures}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#uiZoomGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4362,11 +4326,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:uiZoomGestures
+          @attr name weihao.gcm.demo.app:uiZoomGestures
         */
         public static final int MapAttrs_uiZoomGestures = 12;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#useViewLifecycle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#useViewLifecycle}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4376,11 +4340,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:useViewLifecycle
+          @attr name weihao.gcm.demo.app:useViewLifecycle
         */
         public static final int MapAttrs_useViewLifecycle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#zOrderOnTop}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#zOrderOnTop}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -4390,7 +4354,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:zOrderOnTop
+          @attr name weihao.gcm.demo.app:zOrderOnTop
         */
         public static final int MapAttrs_zOrderOnTop = 14;
         /** Attributes that can be used with a MediaRouteButton.
@@ -4401,7 +4365,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.google.android.gcm.demo.app:externalRouteEnabledDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable weihao.gcm.demo.app:externalRouteEnabledDrawable}</code></td><td></td></tr>
            </table>
            @see #MediaRouteButton_android_minHeight
            @see #MediaRouteButton_android_minWidth
@@ -4423,13 +4387,13 @@ containing a value of this type.
         */
         public static final int MediaRouteButton_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#externalRouteEnabledDrawable}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#externalRouteEnabledDrawable}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:externalRouteEnabledDrawable
+          @attr name weihao.gcm.demo.app:externalRouteEnabledDrawable
         */
         public static final int MediaRouteButton_externalRouteEnabledDrawable = 2;
         /** Attributes that can be used with a MenuGroup.
@@ -4498,9 +4462,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.google.android.gcm.demo.app:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.google.android.gcm.demo.app:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.google.android.gcm.demo.app:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout weihao.gcm.demo.app:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass weihao.gcm.demo.app:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass weihao.gcm.demo.app:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -4514,7 +4478,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.google.android.gcm.demo.app:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction weihao.gcm.demo.app:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -4542,17 +4506,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010056
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionLayout
+          @attr name weihao.gcm.demo.app:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4562,11 +4526,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:actionProviderClass
+          @attr name weihao.gcm.demo.app:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4576,7 +4540,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:actionViewClass
+          @attr name weihao.gcm.demo.app:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -4658,7 +4622,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4674,7 +4638,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:showAsAction
+          @attr name weihao.gcm.demo.app:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -4690,7 +4654,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.google.android.gcm.demo.app:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing weihao.gcm.demo.app:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -4748,7 +4712,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -4758,7 +4722,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:preserveIconSpacing
+          @attr name weihao.gcm.demo.app:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -4768,7 +4732,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.google.android.gcm.demo.app:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor weihao.gcm.demo.app:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -4783,7 +4747,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -4793,7 +4757,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:overlapAnchor
+          @attr name weihao.gcm.demo.app:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -4802,7 +4766,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.google.android.gcm.demo.app:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor weihao.gcm.demo.app:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -4810,7 +4774,7 @@ containing a value of this type.
             0x7f010059
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -4820,7 +4784,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:state_above_anchor
+          @attr name weihao.gcm.demo.app:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
@@ -4833,19 +4797,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.google.android.gcm.demo.app:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.google.android.gcm.demo.app:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.google.android.gcm.demo.app:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.google.android.gcm.demo.app:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.google.android.gcm.demo.app:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.google.android.gcm.demo.app:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.google.android.gcm.demo.app:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.google.android.gcm.demo.app:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.google.android.gcm.demo.app:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.google.android.gcm.demo.app:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.google.android.gcm.demo.app:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.google.android.gcm.demo.app:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.google.android.gcm.demo.app:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon weihao.gcm.demo.app:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon weihao.gcm.demo.app:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint weihao.gcm.demo.app:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon weihao.gcm.demo.app:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault weihao.gcm.demo.app:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout weihao.gcm.demo.app:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground weihao.gcm.demo.app:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint weihao.gcm.demo.app:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon weihao.gcm.demo.app:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon weihao.gcm.demo.app:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground weihao.gcm.demo.app:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout weihao.gcm.demo.app:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon weihao.gcm.demo.app:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -4897,27 +4861,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:closeIcon
+          @attr name weihao.gcm.demo.app:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:commitIcon
+          @attr name weihao.gcm.demo.app:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4927,21 +4891,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:defaultQueryHint
+          @attr name weihao.gcm.demo.app:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:goIcon
+          @attr name weihao.gcm.demo.app:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4951,31 +4915,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:iconifiedByDefault
+          @attr name weihao.gcm.demo.app:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#layout}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:layout
+          @attr name weihao.gcm.demo.app:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:queryBackground
+          @attr name weihao.gcm.demo.app:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4985,57 +4949,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:queryHint
+          @attr name weihao.gcm.demo.app:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:searchHintIcon
+          @attr name weihao.gcm.demo.app:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:searchIcon
+          @attr name weihao.gcm.demo.app:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:submitBackground
+          @attr name weihao.gcm.demo.app:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:suggestionRowLayout
+          @attr name weihao.gcm.demo.app:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:voiceIcon
+          @attr name weihao.gcm.demo.app:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SignInButton.
@@ -5044,9 +5008,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SignInButton_buttonSize com.google.android.gcm.demo.app:buttonSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_colorScheme com.google.android.gcm.demo.app:colorScheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_scopeUris com.google.android.gcm.demo.app:scopeUris}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_buttonSize weihao.gcm.demo.app:buttonSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_colorScheme weihao.gcm.demo.app:colorScheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_scopeUris weihao.gcm.demo.app:scopeUris}</code></td><td></td></tr>
            </table>
            @see #SignInButton_buttonSize
            @see #SignInButton_colorScheme
@@ -5056,7 +5020,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010067, 0x7f010068, 0x7f010069
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buttonSize}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buttonSize}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -5072,11 +5036,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>wide</code></td><td>1</td><td></td></tr>
 <tr><td><code>icon_only</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:buttonSize
+          @attr name weihao.gcm.demo.app:buttonSize
         */
         public static final int SignInButton_buttonSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#colorScheme}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#colorScheme}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -5092,18 +5056,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>light</code></td><td>1</td><td></td></tr>
 <tr><td><code>auto</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:colorScheme
+          @attr name weihao.gcm.demo.app:colorScheme
         */
         public static final int SignInButton_colorScheme = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#scopeUris}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#scopeUris}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.google.android.gcm.demo.app:scopeUris
+          @attr name weihao.gcm.demo.app:scopeUris
         */
         public static final int SignInButton_scopeUris = 2;
         /** Attributes that can be used with a Spinner.
@@ -5115,7 +5079,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.google.android.gcm.demo.app:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme weihao.gcm.demo.app:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_popupBackground
@@ -5144,13 +5108,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_prompt = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:popupTheme
+          @attr name weihao.gcm.demo.app:popupTheme
         */
         public static final int Spinner_popupTheme = 3;
         /** Attributes that can be used with a SwitchCompat.
@@ -5162,13 +5126,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.google.android.gcm.demo.app:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.google.android.gcm.demo.app:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.google.android.gcm.demo.app:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.google.android.gcm.demo.app:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.google.android.gcm.demo.app:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.google.android.gcm.demo.app:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.google.android.gcm.demo.app:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText weihao.gcm.demo.app:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack weihao.gcm.demo.app:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth weihao.gcm.demo.app:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding weihao.gcm.demo.app:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance weihao.gcm.demo.app:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding weihao.gcm.demo.app:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track weihao.gcm.demo.app:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -5205,7 +5169,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#showText}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -5215,11 +5179,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:showText
+          @attr name weihao.gcm.demo.app:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -5229,11 +5193,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:splitTrack
+          @attr name weihao.gcm.demo.app:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -5245,11 +5209,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:switchMinWidth
+          @attr name weihao.gcm.demo.app:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -5261,21 +5225,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:switchPadding
+          @attr name weihao.gcm.demo.app:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:switchTextAppearance
+          @attr name weihao.gcm.demo.app:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -5287,17 +5251,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:thumbTextPadding
+          @attr name weihao.gcm.demo.app:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#track}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:track
+          @attr name weihao.gcm.demo.app:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TextAppearance.
@@ -5310,7 +5274,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.google.android.gcm.demo.app:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps weihao.gcm.demo.app:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_textColor
            @see #TextAppearance_android_textSize
@@ -5347,14 +5311,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.google.android.gcm.demo.app:textAllCaps
+          @attr name weihao.gcm.demo.app:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 4;
         /** Attributes that can be used with a Theme.
@@ -5363,114 +5327,114 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.google.android.gcm.demo.app:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.google.android.gcm.demo.app:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.google.android.gcm.demo.app:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.google.android.gcm.demo.app:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.google.android.gcm.demo.app:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.google.android.gcm.demo.app:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.google.android.gcm.demo.app:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.google.android.gcm.demo.app:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.google.android.gcm.demo.app:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.google.android.gcm.demo.app:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.google.android.gcm.demo.app:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.google.android.gcm.demo.app:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.google.android.gcm.demo.app:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.google.android.gcm.demo.app:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.google.android.gcm.demo.app:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.google.android.gcm.demo.app:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.google.android.gcm.demo.app:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.google.android.gcm.demo.app:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.google.android.gcm.demo.app:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.google.android.gcm.demo.app:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.google.android.gcm.demo.app:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.google.android.gcm.demo.app:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.google.android.gcm.demo.app:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.google.android.gcm.demo.app:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.google.android.gcm.demo.app:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.google.android.gcm.demo.app:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.google.android.gcm.demo.app:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.google.android.gcm.demo.app:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.google.android.gcm.demo.app:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.google.android.gcm.demo.app:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.google.android.gcm.demo.app:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.google.android.gcm.demo.app:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.google.android.gcm.demo.app:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.google.android.gcm.demo.app:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.google.android.gcm.demo.app:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider weihao.gcm.demo.app:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground weihao.gcm.demo.app:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme weihao.gcm.demo.app:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize weihao.gcm.demo.app:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle weihao.gcm.demo.app:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle weihao.gcm.demo.app:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle weihao.gcm.demo.app:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle weihao.gcm.demo.app:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle weihao.gcm.demo.app:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme weihao.gcm.demo.app:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme weihao.gcm.demo.app:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle weihao.gcm.demo.app:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle weihao.gcm.demo.app:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance weihao.gcm.demo.app:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor weihao.gcm.demo.app:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground weihao.gcm.demo.app:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle weihao.gcm.demo.app:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable weihao.gcm.demo.app:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable weihao.gcm.demo.app:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable weihao.gcm.demo.app:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable weihao.gcm.demo.app:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable weihao.gcm.demo.app:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle weihao.gcm.demo.app:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable weihao.gcm.demo.app:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable weihao.gcm.demo.app:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground weihao.gcm.demo.app:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle weihao.gcm.demo.app:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable weihao.gcm.demo.app:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle weihao.gcm.demo.app:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle weihao.gcm.demo.app:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle weihao.gcm.demo.app:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle weihao.gcm.demo.app:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons weihao.gcm.demo.app:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle weihao.gcm.demo.app:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme weihao.gcm.demo.app:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.google.android.gcm.demo.app:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.google.android.gcm.demo.app:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.google.android.gcm.demo.app:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.google.android.gcm.demo.app:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.google.android.gcm.demo.app:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.google.android.gcm.demo.app:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.google.android.gcm.demo.app:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.google.android.gcm.demo.app:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.google.android.gcm.demo.app:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.google.android.gcm.demo.app:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.google.android.gcm.demo.app:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.google.android.gcm.demo.app:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.google.android.gcm.demo.app:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.google.android.gcm.demo.app:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.google.android.gcm.demo.app:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.google.android.gcm.demo.app:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.google.android.gcm.demo.app:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.google.android.gcm.demo.app:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.google.android.gcm.demo.app:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_controlBackground com.google.android.gcm.demo.app:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.google.android.gcm.demo.app:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.google.android.gcm.demo.app:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.google.android.gcm.demo.app:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.google.android.gcm.demo.app:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.google.android.gcm.demo.app:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.google.android.gcm.demo.app:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.google.android.gcm.demo.app:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.google.android.gcm.demo.app:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.google.android.gcm.demo.app:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.google.android.gcm.demo.app:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.google.android.gcm.demo.app:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.google.android.gcm.demo.app:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.google.android.gcm.demo.app:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.google.android.gcm.demo.app:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.google.android.gcm.demo.app:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.google.android.gcm.demo.app:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.google.android.gcm.demo.app:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.google.android.gcm.demo.app:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.google.android.gcm.demo.app:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.google.android.gcm.demo.app:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.google.android.gcm.demo.app:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.google.android.gcm.demo.app:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.google.android.gcm.demo.app:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.google.android.gcm.demo.app:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.google.android.gcm.demo.app:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.google.android.gcm.demo.app:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.google.android.gcm.demo.app:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.google.android.gcm.demo.app:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.google.android.gcm.demo.app:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.google.android.gcm.demo.app:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.google.android.gcm.demo.app:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.google.android.gcm.demo.app:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.google.android.gcm.demo.app:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.google.android.gcm.demo.app:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.google.android.gcm.demo.app:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.google.android.gcm.demo.app:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.google.android.gcm.demo.app:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.google.android.gcm.demo.app:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.google.android.gcm.demo.app:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.google.android.gcm.demo.app:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.google.android.gcm.demo.app:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.google.android.gcm.demo.app:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.google.android.gcm.demo.app:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.google.android.gcm.demo.app:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.google.android.gcm.demo.app:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.google.android.gcm.demo.app:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.google.android.gcm.demo.app:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.google.android.gcm.demo.app:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.google.android.gcm.demo.app:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.google.android.gcm.demo.app:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.google.android.gcm.demo.app:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle weihao.gcm.demo.app:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle weihao.gcm.demo.app:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle weihao.gcm.demo.app:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle weihao.gcm.demo.app:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle weihao.gcm.demo.app:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle weihao.gcm.demo.app:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle weihao.gcm.demo.app:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle weihao.gcm.demo.app:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall weihao.gcm.demo.app:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle weihao.gcm.demo.app:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle weihao.gcm.demo.app:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent weihao.gcm.demo.app:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal weihao.gcm.demo.app:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated weihao.gcm.demo.app:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight weihao.gcm.demo.app:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal weihao.gcm.demo.app:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary weihao.gcm.demo.app:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark weihao.gcm.demo.app:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal weihao.gcm.demo.app:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_controlBackground weihao.gcm.demo.app:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding weihao.gcm.demo.app:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme weihao.gcm.demo.app:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal weihao.gcm.demo.app:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical weihao.gcm.demo.app:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle weihao.gcm.demo.app:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight weihao.gcm.demo.app:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground weihao.gcm.demo.app:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor weihao.gcm.demo.app:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle weihao.gcm.demo.app:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator weihao.gcm.demo.app:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator weihao.gcm.demo.app:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog weihao.gcm.demo.app:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle weihao.gcm.demo.app:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight weihao.gcm.demo.app:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge weihao.gcm.demo.app:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall weihao.gcm.demo.app:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft weihao.gcm.demo.app:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight weihao.gcm.demo.app:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground weihao.gcm.demo.app:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme weihao.gcm.demo.app:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth weihao.gcm.demo.app:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle weihao.gcm.demo.app:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle weihao.gcm.demo.app:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle weihao.gcm.demo.app:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle weihao.gcm.demo.app:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle weihao.gcm.demo.app:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground weihao.gcm.demo.app:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless weihao.gcm.demo.app:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle weihao.gcm.demo.app:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle weihao.gcm.demo.app:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle weihao.gcm.demo.app:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu weihao.gcm.demo.app:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem weihao.gcm.demo.app:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall weihao.gcm.demo.app:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle weihao.gcm.demo.app:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle weihao.gcm.demo.app:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu weihao.gcm.demo.app:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem weihao.gcm.demo.app:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl weihao.gcm.demo.app:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle weihao.gcm.demo.app:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle weihao.gcm.demo.app:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar weihao.gcm.demo.app:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay weihao.gcm.demo.app:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay weihao.gcm.demo.app:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor weihao.gcm.demo.app:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor weihao.gcm.demo.app:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor weihao.gcm.demo.app:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor weihao.gcm.demo.app:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor weihao.gcm.demo.app:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor weihao.gcm.demo.app:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle weihao.gcm.demo.app:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -5611,37 +5575,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100d7, 0x7f0100d8, 0x7f0100d9, 0x7f0100da
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionBarDivider
+          @attr name weihao.gcm.demo.app:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionBarItemBackground
+          @attr name weihao.gcm.demo.app:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionBarPopupTheme
+          @attr name weihao.gcm.demo.app:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5661,111 +5625,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:actionBarSize
+          @attr name weihao.gcm.demo.app:actionBarSize
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionBarSplitStyle
+          @attr name weihao.gcm.demo.app:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionBarStyle
+          @attr name weihao.gcm.demo.app:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionBarTabBarStyle
+          @attr name weihao.gcm.demo.app:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionBarTabStyle
+          @attr name weihao.gcm.demo.app:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionBarTabTextStyle
+          @attr name weihao.gcm.demo.app:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionBarTheme
+          @attr name weihao.gcm.demo.app:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionBarWidgetTheme
+          @attr name weihao.gcm.demo.app:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionButtonStyle
+          @attr name weihao.gcm.demo.app:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionDropDownStyle
+          @attr name weihao.gcm.demo.app:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionMenuTextAppearance
+          @attr name weihao.gcm.demo.app:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5773,181 +5737,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionMenuTextColor
+          @attr name weihao.gcm.demo.app:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModeBackground
+          @attr name weihao.gcm.demo.app:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModeCloseButtonStyle
+          @attr name weihao.gcm.demo.app:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModeCloseDrawable
+          @attr name weihao.gcm.demo.app:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModeCopyDrawable
+          @attr name weihao.gcm.demo.app:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModeCutDrawable
+          @attr name weihao.gcm.demo.app:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModeFindDrawable
+          @attr name weihao.gcm.demo.app:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModePasteDrawable
+          @attr name weihao.gcm.demo.app:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModePopupWindowStyle
+          @attr name weihao.gcm.demo.app:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModeSelectAllDrawable
+          @attr name weihao.gcm.demo.app:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModeShareDrawable
+          @attr name weihao.gcm.demo.app:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModeSplitBackground
+          @attr name weihao.gcm.demo.app:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModeStyle
+          @attr name weihao.gcm.demo.app:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionModeWebSearchDrawable
+          @attr name weihao.gcm.demo.app:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionOverflowButtonStyle
+          @attr name weihao.gcm.demo.app:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:actionOverflowMenuStyle
+          @attr name weihao.gcm.demo.app:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:activityChooserViewStyle
+          @attr name weihao.gcm.demo.app:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:alertDialogButtonGroupStyle
+          @attr name weihao.gcm.demo.app:alertDialogButtonGroupStyle
         */
         public static final int Theme_alertDialogButtonGroupStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5957,27 +5921,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:alertDialogCenterButtons
+          @attr name weihao.gcm.demo.app:alertDialogCenterButtons
         */
         public static final int Theme_alertDialogCenterButtons = 92;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:alertDialogStyle
+          @attr name weihao.gcm.demo.app:alertDialogStyle
         */
         public static final int Theme_alertDialogStyle = 90;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:alertDialogTheme
+          @attr name weihao.gcm.demo.app:alertDialogTheme
         */
         public static final int Theme_alertDialogTheme = 93;
         /**
@@ -5993,117 +5957,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:autoCompleteTextViewStyle
+          @attr name weihao.gcm.demo.app:autoCompleteTextViewStyle
         */
         public static final int Theme_autoCompleteTextViewStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:borderlessButtonStyle
+          @attr name weihao.gcm.demo.app:borderlessButtonStyle
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:buttonBarButtonStyle
+          @attr name weihao.gcm.demo.app:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:buttonBarNegativeButtonStyle
+          @attr name weihao.gcm.demo.app:buttonBarNegativeButtonStyle
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:buttonBarNeutralButtonStyle
+          @attr name weihao.gcm.demo.app:buttonBarNeutralButtonStyle
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:buttonBarPositiveButtonStyle
+          @attr name weihao.gcm.demo.app:buttonBarPositiveButtonStyle
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:buttonBarStyle
+          @attr name weihao.gcm.demo.app:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:buttonStyle
+          @attr name weihao.gcm.demo.app:buttonStyle
         */
         public static final int Theme_buttonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:buttonStyleSmall
+          @attr name weihao.gcm.demo.app:buttonStyleSmall
         */
         public static final int Theme_buttonStyleSmall = 100;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:checkboxStyle
+          @attr name weihao.gcm.demo.app:checkboxStyle
         */
         public static final int Theme_checkboxStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:checkedTextViewStyle
+          @attr name weihao.gcm.demo.app:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6114,11 +6078,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:colorAccent
+          @attr name weihao.gcm.demo.app:colorAccent
         */
         public static final int Theme_colorAccent = 83;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6129,11 +6093,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:colorButtonNormal
+          @attr name weihao.gcm.demo.app:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6144,11 +6108,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:colorControlActivated
+          @attr name weihao.gcm.demo.app:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 85;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6159,11 +6123,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:colorControlHighlight
+          @attr name weihao.gcm.demo.app:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 86;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6174,11 +6138,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:colorControlNormal
+          @attr name weihao.gcm.demo.app:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 84;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6189,11 +6153,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:colorPrimary
+          @attr name weihao.gcm.demo.app:colorPrimary
         */
         public static final int Theme_colorPrimary = 81;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6204,11 +6168,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:colorPrimaryDark
+          @attr name weihao.gcm.demo.app:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 82;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6219,21 +6183,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:colorSwitchThumbNormal
+          @attr name weihao.gcm.demo.app:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#controlBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:controlBackground
+          @attr name weihao.gcm.demo.app:controlBackground
         */
         public static final int Theme_controlBackground = 89;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6245,51 +6209,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:dialogPreferredPadding
+          @attr name weihao.gcm.demo.app:dialogPreferredPadding
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:dialogTheme
+          @attr name weihao.gcm.demo.app:dialogTheme
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:dividerHorizontal
+          @attr name weihao.gcm.demo.app:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:dividerVertical
+          @attr name weihao.gcm.demo.app:dividerVertical
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:dropDownListViewStyle
+          @attr name weihao.gcm.demo.app:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 73;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6301,21 +6265,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:dropdownListPreferredItemHeight
+          @attr name weihao.gcm.demo.app:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:editTextBackground
+          @attr name weihao.gcm.demo.app:editTextBackground
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6323,61 +6287,61 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gcm.demo.app:editTextColor
+          @attr name weihao.gcm.demo.app:editTextColor
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:editTextStyle
+          @attr name weihao.gcm.demo.app:editTextStyle
         */
         public static final int Theme_editTextStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:homeAsUpIndicator
+          @attr name weihao.gcm.demo.app:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:listChoiceBackgroundIndicator
+          @attr name weihao.gcm.demo.app:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 80;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:listDividerAlertDialog
+          @attr name weihao.gcm.demo.app:listDividerAlertDialog
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:listPopupWindowStyle
+          @attr name weihao.gcm.demo.app:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6389,11 +6353,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:listPreferredItemHeight
+          @attr name weihao.gcm.demo.app:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 68;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6405,11 +6369,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:listPreferredItemHeightLarge
+          @attr name weihao.gcm.demo.app:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 70;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6421,11 +6385,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:listPreferredItemHeightSmall
+          @attr name weihao.gcm.demo.app:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 69;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6437,11 +6401,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:listPreferredItemPaddingLeft
+          @attr name weihao.gcm.demo.app:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 71;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6453,31 +6417,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:listPreferredItemPaddingRight
+          @attr name weihao.gcm.demo.app:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 72;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:panelBackground
+          @attr name weihao.gcm.demo.app:panelBackground
         */
         public static final int Theme_panelBackground = 77;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:panelMenuListTheme
+          @attr name weihao.gcm.demo.app:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 79;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6489,171 +6453,171 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:panelMenuListWidth
+          @attr name weihao.gcm.demo.app:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 78;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:popupMenuStyle
+          @attr name weihao.gcm.demo.app:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:popupWindowStyle
+          @attr name weihao.gcm.demo.app:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:radioButtonStyle
+          @attr name weihao.gcm.demo.app:radioButtonStyle
         */
         public static final int Theme_radioButtonStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:ratingBarStyle
+          @attr name weihao.gcm.demo.app:ratingBarStyle
         */
         public static final int Theme_ratingBarStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:searchViewStyle
+          @attr name weihao.gcm.demo.app:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:selectableItemBackground
+          @attr name weihao.gcm.demo.app:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:selectableItemBackgroundBorderless
+          @attr name weihao.gcm.demo.app:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:spinnerDropDownItemStyle
+          @attr name weihao.gcm.demo.app:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:spinnerStyle
+          @attr name weihao.gcm.demo.app:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:switchStyle
+          @attr name weihao.gcm.demo.app:switchStyle
         */
         public static final int Theme_switchStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:textAppearanceLargePopupMenu
+          @attr name weihao.gcm.demo.app:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:textAppearanceListItem
+          @attr name weihao.gcm.demo.app:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 75;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:textAppearanceListItemSmall
+          @attr name weihao.gcm.demo.app:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 76;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:textAppearanceSearchResultSubtitle
+          @attr name weihao.gcm.demo.app:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:textAppearanceSearchResultTitle
+          @attr name weihao.gcm.demo.app:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 64;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:textAppearanceSmallPopupMenu
+          @attr name weihao.gcm.demo.app:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6661,11 +6625,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gcm.demo.app:textColorAlertDialogListItem
+          @attr name weihao.gcm.demo.app:textColorAlertDialogListItem
         */
         public static final int Theme_textColorAlertDialogListItem = 94;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6673,31 +6637,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gcm.demo.app:textColorSearchUrl
+          @attr name weihao.gcm.demo.app:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 66;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:toolbarNavigationButtonStyle
+          @attr name weihao.gcm.demo.app:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:toolbarStyle
+          @attr name weihao.gcm.demo.app:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6707,11 +6671,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:windowActionBar
+          @attr name weihao.gcm.demo.app:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6721,11 +6685,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:windowActionBarOverlay
+          @attr name weihao.gcm.demo.app:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6735,11 +6699,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:windowActionModeOverlay
+          @attr name weihao.gcm.demo.app:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6754,11 +6718,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:windowFixedHeightMajor
+          @attr name weihao.gcm.demo.app:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6773,11 +6737,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:windowFixedHeightMinor
+          @attr name weihao.gcm.demo.app:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6792,11 +6756,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:windowFixedWidthMajor
+          @attr name weihao.gcm.demo.app:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6811,11 +6775,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:windowFixedWidthMinor
+          @attr name weihao.gcm.demo.app:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6830,11 +6794,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:windowMinWidthMajor
+          @attr name weihao.gcm.demo.app:windowMinWidthMajor
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6849,11 +6813,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:windowMinWidthMinor
+          @attr name weihao.gcm.demo.app:windowMinWidthMinor
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6863,7 +6827,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:windowNoTitle
+          @attr name weihao.gcm.demo.app:windowNoTitle
         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -6874,29 +6838,29 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.google.android.gcm.demo.app:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.google.android.gcm.demo.app:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.google.android.gcm.demo.app:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.google.android.gcm.demo.app:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.google.android.gcm.demo.app:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.google.android.gcm.demo.app:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.google.android.gcm.demo.app:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.google.android.gcm.demo.app:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.google.android.gcm.demo.app:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.google.android.gcm.demo.app:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.google.android.gcm.demo.app:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.google.android.gcm.demo.app:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.google.android.gcm.demo.app:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.google.android.gcm.demo.app:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.google.android.gcm.demo.app:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.google.android.gcm.demo.app:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.google.android.gcm.demo.app:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.google.android.gcm.demo.app:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.google.android.gcm.demo.app:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.google.android.gcm.demo.app:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.google.android.gcm.demo.app:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.google.android.gcm.demo.app:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.google.android.gcm.demo.app:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription weihao.gcm.demo.app:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon weihao.gcm.demo.app:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd weihao.gcm.demo.app:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft weihao.gcm.demo.app:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight weihao.gcm.demo.app:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart weihao.gcm.demo.app:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo weihao.gcm.demo.app:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription weihao.gcm.demo.app:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight weihao.gcm.demo.app:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription weihao.gcm.demo.app:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon weihao.gcm.demo.app:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme weihao.gcm.demo.app:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle weihao.gcm.demo.app:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance weihao.gcm.demo.app:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor weihao.gcm.demo.app:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title weihao.gcm.demo.app:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom weihao.gcm.demo.app:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd weihao.gcm.demo.app:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart weihao.gcm.demo.app:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop weihao.gcm.demo.app:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins weihao.gcm.demo.app:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance weihao.gcm.demo.app:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor weihao.gcm.demo.app:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -6946,7 +6910,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6956,21 +6920,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:collapseContentDescription
+          @attr name weihao.gcm.demo.app:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:collapseIcon
+          @attr name weihao.gcm.demo.app:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6982,11 +6946,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:contentInsetEnd
+          @attr name weihao.gcm.demo.app:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6998,11 +6962,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:contentInsetLeft
+          @attr name weihao.gcm.demo.app:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7014,11 +6978,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:contentInsetRight
+          @attr name weihao.gcm.demo.app:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7030,21 +6994,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:contentInsetStart
+          @attr name weihao.gcm.demo.app:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#logo}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:logo
+          @attr name weihao.gcm.demo.app:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7054,11 +7018,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:logoDescription
+          @attr name weihao.gcm.demo.app:logoDescription
         */
         public static final int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7070,11 +7034,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:maxButtonHeight
+          @attr name weihao.gcm.demo.app:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7084,31 +7048,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:navigationContentDescription
+          @attr name weihao.gcm.demo.app:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:navigationIcon
+          @attr name weihao.gcm.demo.app:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:popupTheme
+          @attr name weihao.gcm.demo.app:popupTheme
         */
         public static final int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7118,21 +7082,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:subtitle
+          @attr name weihao.gcm.demo.app:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:subtitleTextAppearance
+          @attr name weihao.gcm.demo.app:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7143,11 +7107,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:subtitleTextColor
+          @attr name weihao.gcm.demo.app:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#title}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7157,11 +7121,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:title
+          @attr name weihao.gcm.demo.app:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7173,11 +7137,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:titleMarginBottom
+          @attr name weihao.gcm.demo.app:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7189,11 +7153,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:titleMarginEnd
+          @attr name weihao.gcm.demo.app:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7205,11 +7169,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:titleMarginStart
+          @attr name weihao.gcm.demo.app:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7221,11 +7185,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:titleMarginTop
+          @attr name weihao.gcm.demo.app:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7237,21 +7201,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:titleMargins
+          @attr name weihao.gcm.demo.app:titleMargins
         */
         public static final int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:titleTextAppearance
+          @attr name weihao.gcm.demo.app:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7262,7 +7226,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:titleTextColor
+          @attr name weihao.gcm.demo.app:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -7273,9 +7237,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.google.android.gcm.demo.app:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.google.android.gcm.demo.app:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.google.android.gcm.demo.app:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd weihao.gcm.demo.app:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart weihao.gcm.demo.app:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme weihao.gcm.demo.app:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -7300,7 +7264,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -7312,11 +7276,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:paddingEnd
+          @attr name weihao.gcm.demo.app:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -7328,17 +7292,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:paddingStart
+          @attr name weihao.gcm.demo.app:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#theme}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:theme
+          @attr name weihao.gcm.demo.app:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -7348,8 +7312,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.google.android.gcm.demo.app:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.google.android.gcm.demo.app:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint weihao.gcm.demo.app:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode weihao.gcm.demo.app:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -7365,7 +7329,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -7376,11 +7340,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:backgroundTint
+          @attr name weihao.gcm.demo.app:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -7396,7 +7360,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:backgroundTintMode
+          @attr name weihao.gcm.demo.app:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
@@ -7440,10 +7404,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_appTheme com.google.android.gcm.demo.app:appTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_environment com.google.android.gcm.demo.app:environment}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_fragmentMode com.google.android.gcm.demo.app:fragmentMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_fragmentStyle com.google.android.gcm.demo.app:fragmentStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_appTheme weihao.gcm.demo.app:appTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_environment weihao.gcm.demo.app:environment}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_fragmentMode weihao.gcm.demo.app:fragmentMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_fragmentStyle weihao.gcm.demo.app:fragmentStyle}</code></td><td></td></tr>
            </table>
            @see #WalletFragmentOptions_appTheme
            @see #WalletFragmentOptions_environment
@@ -7454,7 +7418,7 @@ containing a value of this type.
             0x7f0100ef, 0x7f0100f0, 0x7f0100f1, 0x7f0100f2
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#appTheme}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#appTheme}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
@@ -7467,11 +7431,11 @@ containing a value of this type.
 <tr><td><code>holo_dark</code></td><td>0</td><td></td></tr>
 <tr><td><code>holo_light</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:appTheme
+          @attr name weihao.gcm.demo.app:appTheme
         */
         public static final int WalletFragmentOptions_appTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#environment}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#environment}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
@@ -7486,11 +7450,11 @@ containing a value of this type.
 <tr><td><code>sandbox</code></td><td>0</td><td></td></tr>
 <tr><td><code>strict_sandbox</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:environment
+          @attr name weihao.gcm.demo.app:environment
         */
         public static final int WalletFragmentOptions_environment = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#fragmentMode}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#fragmentMode}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
@@ -7503,17 +7467,17 @@ containing a value of this type.
 <tr><td><code>buyButton</code></td><td>1</td><td></td></tr>
 <tr><td><code>selectionDetails</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:fragmentMode
+          @attr name weihao.gcm.demo.app:fragmentMode
         */
         public static final int WalletFragmentOptions_fragmentMode = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#fragmentStyle}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#fragmentStyle}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:fragmentStyle
+          @attr name weihao.gcm.demo.app:fragmentStyle
         */
         public static final int WalletFragmentOptions_fragmentStyle = 2;
         /** Attributes that can be used with a WalletFragmentStyle.
@@ -7522,17 +7486,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonAppearance com.google.android.gcm.demo.app:buyButtonAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonHeight com.google.android.gcm.demo.app:buyButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonText com.google.android.gcm.demo.app:buyButtonText}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonWidth com.google.android.gcm.demo.app:buyButtonWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsBackground com.google.android.gcm.demo.app:maskedWalletDetailsBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonBackground com.google.android.gcm.demo.app:maskedWalletDetailsButtonBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance com.google.android.gcm.demo.app:maskedWalletDetailsButtonTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance com.google.android.gcm.demo.app:maskedWalletDetailsHeaderTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoImageType com.google.android.gcm.demo.app:maskedWalletDetailsLogoImageType}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoTextColor com.google.android.gcm.demo.app:maskedWalletDetailsLogoTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsTextAppearance com.google.android.gcm.demo.app:maskedWalletDetailsTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonAppearance weihao.gcm.demo.app:buyButtonAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonHeight weihao.gcm.demo.app:buyButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonText weihao.gcm.demo.app:buyButtonText}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonWidth weihao.gcm.demo.app:buyButtonWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsBackground weihao.gcm.demo.app:maskedWalletDetailsBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonBackground weihao.gcm.demo.app:maskedWalletDetailsButtonBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance weihao.gcm.demo.app:maskedWalletDetailsButtonTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance weihao.gcm.demo.app:maskedWalletDetailsHeaderTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoImageType weihao.gcm.demo.app:maskedWalletDetailsLogoImageType}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoTextColor weihao.gcm.demo.app:maskedWalletDetailsLogoTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsTextAppearance weihao.gcm.demo.app:maskedWalletDetailsTextAppearance}</code></td><td></td></tr>
            </table>
            @see #WalletFragmentStyle_buyButtonAppearance
            @see #WalletFragmentStyle_buyButtonHeight
@@ -7552,7 +7516,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100fb, 0x7f0100fc, 0x7f0100fd
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buyButtonAppearance}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buyButtonAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -7572,11 +7536,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>grayscale</code></td><td>2</td><td></td></tr>
 <tr><td><code>monochrome</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:buyButtonAppearance
+          @attr name weihao.gcm.demo.app:buyButtonAppearance
         */
         public static final int WalletFragmentStyle_buyButtonAppearance = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buyButtonHeight}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buyButtonHeight}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -7597,11 +7561,11 @@ containing a value of this type.
 <tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
 <tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:buyButtonHeight
+          @attr name weihao.gcm.demo.app:buyButtonHeight
         */
         public static final int WalletFragmentStyle_buyButtonHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buyButtonText}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buyButtonText}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -7619,11 +7583,11 @@ containing a value of this type.
 <tr><td><code>book_now</code></td><td>3</td><td></td></tr>
 <tr><td><code>donate_with_google</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:buyButtonText
+          @attr name weihao.gcm.demo.app:buyButtonText
         */
         public static final int WalletFragmentStyle_buyButtonText = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#buyButtonWidth}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#buyButtonWidth}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -7644,11 +7608,11 @@ containing a value of this type.
 <tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
 <tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:buyButtonWidth
+          @attr name weihao.gcm.demo.app:buyButtonWidth
         */
         public static final int WalletFragmentStyle_buyButtonWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#maskedWalletDetailsBackground}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#maskedWalletDetailsBackground}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -7656,11 +7620,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gcm.demo.app:maskedWalletDetailsBackground
+          @attr name weihao.gcm.demo.app:maskedWalletDetailsBackground
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsBackground = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#maskedWalletDetailsButtonBackground}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#maskedWalletDetailsButtonBackground}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -7668,31 +7632,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gcm.demo.app:maskedWalletDetailsButtonBackground
+          @attr name weihao.gcm.demo.app:maskedWalletDetailsButtonBackground
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsButtonBackground = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#maskedWalletDetailsButtonTextAppearance}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#maskedWalletDetailsButtonTextAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:maskedWalletDetailsButtonTextAppearance
+          @attr name weihao.gcm.demo.app:maskedWalletDetailsButtonTextAppearance
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#maskedWalletDetailsHeaderTextAppearance}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#maskedWalletDetailsHeaderTextAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:maskedWalletDetailsHeaderTextAppearance
+          @attr name weihao.gcm.demo.app:maskedWalletDetailsHeaderTextAppearance
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#maskedWalletDetailsLogoImageType}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#maskedWalletDetailsLogoImageType}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -7708,11 +7672,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>classic</code></td><td>1</td><td></td></tr>
 <tr><td><code>monochrome</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gcm.demo.app:maskedWalletDetailsLogoImageType
+          @attr name weihao.gcm.demo.app:maskedWalletDetailsLogoImageType
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsLogoImageType = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#maskedWalletDetailsLogoTextColor}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#maskedWalletDetailsLogoTextColor}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -7723,17 +7687,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gcm.demo.app:maskedWalletDetailsLogoTextColor
+          @attr name weihao.gcm.demo.app:maskedWalletDetailsLogoTextColor
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsLogoTextColor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gcm.demo.app.R.attr#maskedWalletDetailsTextAppearance}
+          <p>This symbol is the offset where the {@link weihao.gcm.demo.app.R.attr#maskedWalletDetailsTextAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gcm.demo.app:maskedWalletDetailsTextAppearance
+          @attr name weihao.gcm.demo.app:maskedWalletDetailsTextAppearance
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsTextAppearance = 4;
     };
